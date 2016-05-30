@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 from Tkinter import *
 from PIL import ImageTk, Image
-import ttk, json
+import ttk, json, os
 
 # Called once to load in the JSON.	
 SelectedTraits, elements = {}, {}
@@ -28,8 +28,8 @@ def setTrait(selectedTraitIndex):
 		'Quality2', 'Quality3', 'LongQuote', 'Superficial', 'Deep', 'AllConsuming'):
 		SelectedTraits[key].set(traits[selectedTraitIndex][key])
 	SelectedTraits["DisplayName"].set("An eidolon displays " + traits[selectedTraitIndex]["DisplayName"] + " if:")
-	currentImages['Type'] = ImageTk.PhotoImage(Image.open(traits[selectedTraitIndex]['Type'].encode('utf-8')+'.png'))
-	currentImages['Element'] = ImageTk.PhotoImage(Image.open(traits[selectedTraitIndex]['Element'].encode('utf-8')+'.png'))
+	currentImages['Type'] = ImageTk.PhotoImage(Image.open(os.path.join('assets', traits[selectedTraitIndex]['Type'].encode('utf-8')+'.png')))
+	currentImages['Element'] = ImageTk.PhotoImage(Image.open(os.path.join('assets', traits[selectedTraitIndex]['Element'].encode('utf-8')+'.png')))
 
 def chooseTrait(*args):
 	selectedTraitIndex = traitNames.index(selectedTraitName.get())
