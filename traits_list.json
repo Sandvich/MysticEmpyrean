@@ -1,0 +1,1583 @@
+[
+    {
+        "Data": [
+            "Personality", 
+            "Air", 
+            "boastfulness", 
+            "\"None can dare to challenge my might!\"", 
+            "They inflate their own reputation at the expense of others.", 
+            "They make claims and bets which are beyond their capability.", 
+            "They demand recognition for their deeds from others.", 
+            "\"His strength was apparent from his imposing figure. Only the reddish crystal in his forehead displayed the slightest weakness, for I could see slight cracks formed in it from battles past.\"", 
+            "A small patch of vulnerable skin, perhaps the size of a fist, appears somewhere on the Eidolon's flesh. The rest of their body becomes as tough as hardened oak, but this patch of skin remains soft and vulnerable. A strike to the vulnerable area wracks the body with extreme pain, disabling them temporarily and returning their defenses to normal.", 
+            "The weak point of the Eidolon grows slightly and becomes more obvious to those who see it. They also gain great strength to match their tough exterior, becoming not wholly invulnerable to wounds, but very close. A strike to the vulnerable area severely debilitates them, negating their physical defenses temporarily and reducing their ability to move and act.", 
+            "The Eidolon's weakness becomes more prominent, often glowing or pulsing\u2013perhaps even taking on the form of their exposed heart. Their body is completely indestructible and possessed of great strength. However, a single solid blow to this weak point will completely debilitate them."
+        ], 
+        "Name": "Achilles' Heel", 
+        "Personality": "Boastful"
+    }, 
+    {
+        "Data": [
+            "Talent", 
+            "Light", 
+            "organisation", 
+            "\"Don't worry, I know exactly what the plan is.\"", 
+            "They need to know and plan out every detail of an activity or schedule.", 
+            "They remember tiny details about what was said or done.", 
+            "They keep a large assortment of tools and items.", 
+            "\"I was dismayed when I saw the obstacle before us. We hadn't brought what we needed, and so there was no obvious way to proceed. I was surprised when my friend reached into himself and withdrew exactly the tool we would need to continue.\"", 
+            "The Eidolon's body conceals a secret compartment within their heart that can hold almost any object or tool without it taking up space. Drawing and placing things into this compartment takes careful concentration. By spending a point of Anima, the Eidolon can draw any small-sized mundane object, tool, or device from this compartment (presumably because they placed it there ahead of time in preparation).", 
+            "The Eidolon's internal compartment is larger, and can contain and disgorge larger objects and tools, some as large as themself. Though living things can never be stored in this way, organic objects like food can be. The Eidolon does not need to spend Anima to draw things from this compartment.", 
+            "The Eidolon's internal storage can contain even rare and magical treasures. By spending a point of any kind of Anima, the Eidolon can draw wonders from their internal storage as well. For each item the Eidolon draws from their internal storage and does not replace by the end of an encounter, they lose 1 Anima or suffer a deep wound that disables this ability (they must lose Anima if possible before taking the wound). Any items that are not replaced into their storage will vanish in several hours."
+        ], 
+        "Name": "Always Prepared", 
+        "Personality": "Organised"
+    }, 
+    {
+        "Data": [
+            "Talent", 
+            "Electricity", 
+            "ingenuity", 
+            "\"I think I have a plan...\"", 
+            "They discover new but effective uses for the tools at hand.", 
+            "They is interested in repairing, using, and improving technology.", 
+            "Their plans for overcoming obstacles and enemies display remarkable insight.", 
+            "\"Coils rose from his shoulders and crackled with powerful electrical charge. He raised his hands, and let out a cry, and the night sky was lit like day with the bolt of thunder that reached down to meet his call.\"", 
+            "Small fixtures in the Eidolon's body are capable of releasing electric current that can be channeled to activate electronic machines, shock enemies with a touch, or form small magnetic fields.", 
+            "The electric fixtures on the Eidolon's body become more pronounced, and capable of producing a more deadly electric shock. Furthermore, the Eidolon can 'sync up' with machines and control or speak to them in mysterious ways.", 
+            "The Eidolon's body constantly brims with electric power, and it is sometimes difficult to contain. They can extend bolts of electrical force like tentacles of magnetic power to grapple and manipulate metal, and can blast with the power of a thunderbolt. When grounded, however, they lose all of these powers, making rubber shoes indispensable."
+        ], 
+        "Name": "Arclight", 
+        "Personality": "Ingenious"
+    }, 
+    {
+        "Data": [
+            "Talent", 
+            "Electricity", 
+            "artistic tendencies", 
+            "\"You can't just rush in, it has to be done with some semblance of style.\"", 
+            "They are interested in the presentation of their actions, describing vividly how they look, act, or sound.", 
+            "They are interested in the art and culture of Empyrean (or of Old Empyrean).", 
+            "They spend their time working on artistic or cultural endeavors.", 
+            "\"She existed only as color and sound, painting herself into the air with each action and word. She appeared as a watercolor painting on the canvas of the world, and could recast herself to any image her heart desired.\"", 
+            "The Eidolon can flow and move as though a liquid. When standing still, they retain their ordinary shape and look, but when moving, they can dart effortlessly through the arms or legs of clumsier foes without a thought. Climbing and acrobatics are also unnaturally easy for an Eidolon with this ability. Water is especially dangerous to the Eidolon, and dousing them with water temporarily removes these abilities and returns them to a normal, static form.", 
+            "While standing still, the Eidolon's dimensions vanish, and they appear to become a painting on a wall or a part of the scenery. They can alter their exterior colors to match those of their surroundings, becoming invisible with an ever-shifting camouflage.", 
+            "The Eidolon can freely change their appearance to anything they wish, though they must be careful to suppress their body of flowing colors and sounds if they are to be passable as another being. While these Eidolons can easily frighten, inspire, and seduce others, they are more fragile, and flake away at a touch\u2013just like an oil painting."
+        ], 
+        "Name": "Art Cast Living", 
+        "Personality": "Artistic"
+    }, 
+    {
+        "Data": [
+            "Personality", 
+            "Electricity", 
+            "obsessive tendencies", 
+            "\"Sorry, I was just thinking about it again... I can't seem to get it off of my mind.\"", 
+            "They talk continuously about one thing, or become fixated on one thing.", 
+            "They cannot abandon a proposed course of action or a plan until they have tried it.", 
+            "They pursue habitual courses of action when presented with the opportunity or during free time.", 
+            "\"She coughed discreetly as she reached for the vial of medicine that hung at her side. It was the source of both her strength and misery, for without it she would have been free.\"", 
+            "The Eidolon gains a dependence on some substance. While that substance is readily at hand, they never grow tired, and can heal superficial wounds easily by consuming it. There is no withdrawal or downside to running out of this substance at the superficial level. Also, the substance need not be a consumable\u2013it could as easily be an object, a feeling, or a person.", 
+            "While the Eidolon is in possession of their sustaining substance, they are slightly faster and stronger than normal, and can regenerate superficial wounds easily by consuming a portion of the substance. Without it, they become lethargic, and more susceptible to wounds than usual.", 
+            "The Eidolon's need for their artificial sustenance supersedes any other need. While they have it, they gain proficiency in most mundane skills, and are much stronger than normal. However, their sustaining force must constantly be replenished, as having it near is no longer enough\u2013it is constantly being whittled away by their use. Without the substance, they become catatonic, and unable to act at all."
+        ], 
+        "Name": "Artificially Sustained", 
+        "Personality": "Obsessive"
+    }, 
+    {
+        "Data": [
+            "Vice", 
+            "Darkness", 
+            "callousness", 
+            "\"How do I feel about killing you? Hmm... Do you feel a pang of regret when burning your garbage?\"", 
+            "They do not feel any compunction or grief when watching others come to harm.", 
+            "They ignore pleas of help from others.", 
+            "They appear to be emotionless or otherwise disconnected from the pathos of those around them.", 
+            "\"Her skin was grey and burnt, and flecked away as she brushed a hand to her cheek, as though it were made of ash. She shrugged calmly and pulled the sword out from her breast, tossing it to the ground as the wound healed painlessly.\"", 
+            "The Eidolon does not feel pain, and is never debilitated by the crippling pain of even the most terrible superficial wounds. They regenerate sensitive organs like eyes, vitals, and skin with supernatural speed, though bones and lost limbs take much longer.", 
+            "Large portions of the Eidolon's body may be gouged out or blasted apart, and they will simply flow back together like sand flowing back into a mold. The Eidolon no longer has vitals other than the heart\u2013their body is composed completely of powdery dust. The ability to ignore pain allows them to push their muscles and senses beyond the normal limits.", 
+            "Other than their heart, the Eidolon's body is completely immune to pain or harm, and will regenerate any superficial wound in moments. They can shift their cold flesh to a diamond-like hardness on limited surfaces of their body, creating a shield for their heart when necessary. In heavy winds or in water, the dust that forms their body may begin to disintegrate, however, leaving all their powers of regeneration for naught."
+        ], 
+        "Name": "Ashen Flesh", 
+        "Personality": "Callous"
+    }, 
+    {
+        "Data": [
+            "Talent", 
+            "Air", 
+            "verbosity", 
+            "\"I do suppose that the possibility of success has a chance to somehow exist, in the context of this plan.\"", 
+            "They talk constantly, even when asked to be quiet.", 
+            "They cannot keep a thought to themselves, and must speak their mind at every opportunity.", 
+            "They attempt to talk through problems and conflicts, even when other courses of action might be more expidient.", 
+            "\"His whole body seemed to hum and mumble in a jitter of words, even though his mouth was closed. When he did speak, his voice shifted and took on many forms, from the roar of a lion to the crash of thunder, to the whispering of a song.\"", 
+            "An Eidolon with this trait can speak all languages with ease. Furthermore, they speak all languages at once, and do not need to translate or repeat themselves. Every person hears the Eidolon in their own language.", 
+            "Able to emulate any sound, an Eidolon with this trait can speak with the voice of a symphony or the crash of a volcano. Their shout can deafen and in some cases even daze an enemy.", 
+            "The body of the Eidolon ripples with chittering voices, all speaking in conflicting tones. The Eidolon serves as a hub for communication, and their allies can speak to them from any distance, and he can speak to them at any distance. This comes at a price\u2013however, as the Eidolon no longer has any internal monologue. Every thought that crosses their mind must be vocalized for the world to hear."
+        ], 
+        "Name": "Babbling", 
+        "Personality": "Verbose"
+    }, 
+    {
+        "Data": [
+            "Virtue", 
+            "Fire", 
+            "bravery", 
+            "\"Abandon your fears and fight beside me!\"", 
+            "They will not stand down when threatened.", 
+            "They will put themselves in danger in order to save or protect others.", 
+            "Those around them are rallied to bravery by the Eidolon's actions.", 
+            "\"A myriad of flags, banners, and sigils adorned every inch of his body. He was so heavily layered with valorous commendations I could scarcely believe a man could bear their weight. I wondered if perhaps there were no man at all, and that the very ideal of courage and bravery stood before me.\"", 
+            "Flags and banners are a part of the Eidolon's body. When they join a battle or endeavor, they can let out a rallying cry that, by spending an Anima, inspires all those around them who might flee in fear to turn and join the battle. Allies within sight of this banner can fight with slightly more proficiency.", 
+            "The sigils and medals of valor that cover the Eidolon's body reflect their power and strength. Just as they inspire allies to courage, they can inspire enemies to fear with their charge. Though this power is weaker against Eidolons and strong minded individuals, those who are wavering on the possibility of joining the battle on an enemy's side will inevitably turn and flee at the sight of this Eidolon.", 
+            "The Eidolon becomes one with battle, and those allies at their side are imbued with the same infectious strength, each fighting with a proficiency of heroic proportions. So powerful is this link to battle that the Eidolon is unable to stop fighting until an enemy flees or surrenders. In order to retreat, they must be forcibly bound or torn from the conflict."
+        ], 
+        "Name": "Banneret", 
+        "Personality": "Brave"
+    }, 
+    {
+        "Data": [
+            "Virtue", 
+            "Darkness", 
+            "courtesy", 
+            "\"Let me speak for my companions as well when I say that we are most grateful for your generosity.\"", 
+            "They offer respect to others where it is due.", 
+            "They act in a well-mannered and well-tempered way, even when tempted to act otherwise.", 
+            "They win the affection and favour of those with power and responsibility.", 
+            "\"As the avalanche closed over us, she calmly raised her hand, as if to catch that incredible flow. The air shimmered above us, and as I watched in wonder, the snow slid over us, cascading across an invisible barrier in the air.\"", 
+            "The Eidolon's face hardens to become much like a mask, though one that captures their features perfectly and beautifully. Their flesh is powdered pale, as though with makeup. With a flourish of the hand, they can create walls of force that will repel or redirect most assaults. The air shimmers with these forces, making them apparent to intelligent creatures, but confounding to monsters. It requires both hands to maintain these barriers, and the Eidolon cannot hold a barrier where they cannot see.", 
+            "The Eidolon may use this power to create opaque, reflective, translucent, or glowing barriers. Additionally, they can maintain two separate barriers within sight, one per hand.", 
+            "The Eidolon can create resistive barriers that redirect force back upon attackers, or spring like rubber against strong forces. They can maintain up to three of these barriers within sight at any given time\u2013one per hand, and one with pure visual focus. The Eidolon's pale, mask-like flesh reacts violently to skin contact with any other creature, and they must keep others at a distance and wear heavy clothing to avoid contact and the pain it inflicts."
+        ], 
+        "Name": "Barrier", 
+        "Personality": "Courteous"
+    }, 
+    {
+        "Data": [
+            "Virtue", 
+            "Stone", 
+            "selflessness", 
+            "\"How could I do nothing while others need me?\"", 
+            "They put themselves in harms way to protect those around them.", 
+            "They think nothing of their own wounds or inconvenience.", 
+            "They offer to others what they could rightfully keep for themselves.", 
+            "\"A sudden storm rose up as we climbed the cliff face, and I was certain we were doomed. But our guide stood like an oak before us, shielding us from the torrent of wind with his own body. When the blast had ended, he dusted himself off and continued the climb as though nothing had happened.\"", 
+            "The Eidolon's body becomes nearly invulnerable and is strong enough to resist direct attacks from both guns and steel. Strong forces can still knock them down or shove the aside, however.", 
+            "Planting their feet firmly on the ground, the Eidolon gains great traction, and can brace against almost any force. While not completely immovable, it takes incredible force to lift them from their position. Additionally, the Eidolon may grow slightly larger while using this ability.", 
+            "The Eidolon can utilize their selflessness to become a veritable fortress, growing several sizes larger than normal, and becoming completely invulnerable and immobile. With this great power, however, comes great weight and a terrible loss of speed."
+        ], 
+        "Name": "Bastion", 
+        "Personality": "Selfless"
+    }, 
+    {
+        "Data": [
+            "Talent", 
+            "Fire", 
+            "competitiveness", 
+            "\"Let's settle this with a challenge...\"", 
+            "They will not back down from a challenge to their abilities.", 
+            "They feel a need to display superiority over others.", 
+            "They challenge others even when they cannot be sure of victory.", 
+            "\"He crouched low, waiting to strike. I braced myself to do battle with the man, but what leapt for me was not a man, but a nightmare of claws, fangs, and fury.\"", 
+            "The Eidolon's teeth lengthen into fangs, and their fingers sharpen into claws. With a little concentration they may transform into any natural creature they have seen or studied. They do not become an exact copy of the creature, but they do become a perfect member of its species. The size of the creature that the Eidolon can become must not be larger or smaller than their own natural size.", 
+            "With even greater control over their form, the Beast Former can become a creature as large as four times their own size, or as small as a quarter of their own size.", 
+            "The Eidolon can transform into even mythical or fantastic creatures, even forming their own unnatural \"chimera\" creatures by fusing multiple animal traits together. They are never able to take on the same form twice, and must constantly shift their physical features to match the challenge at hand."
+        ], 
+        "Name": "Beast Form", 
+        "Personality": "Competitive"
+    }, 
+    {
+        "Data": [
+            "Personality", 
+            "Light", 
+            "controlling tendencies", 
+            "\"How dare you defy me?\"", 
+            "They need to be the one 'in charge' of the team.", 
+            "They take control and give orders with ease.", 
+            "They manipulate others by a careful understanding of their motivations and desires.", 
+            "\"He spoke to the earth, and it burst forward with a myriad of life, all rising to obey and serve him.\"", 
+            "The Eidolon has the power to speak to animals and assert some limited control over them. Since the Eidolons are creatures much akin to Anima Spirits, less intelligent wild creatures will interpret their commands as the voice of nature itself, and obey without question.", 
+            "The Eidolon can bind to themselves a single creature who serves them as a pet. The bound creature obeys unquestioningly its master's commands, and can speak and share its eyes with its master. If killed, the Beast Master can spend Anima to revive their pet, just as they can heal themselves.", 
+            "Using the power of Anima to give life to dust, the Eidolon can create wild beasts and creatures with a thought. These simulacra obey the Eidolon's orders completely before turning to dust. The Eidolon must maintain focus to hold the reigns of control over these creations. If they lose concentration or perform a strenuous activity while controlling the beasts, they will turn upon the Eidolon out of spite for their forced, unnatural life."
+        ], 
+        "Name": "Beast Master", 
+        "Personality": "Controlling"
+    }, 
+    {
+        "Data": [
+            "Virtue", 
+            "Air", 
+            "optimism", 
+            "\"Try to think positive \u2013 it will do us all good.\"", 
+            "They never admit defeat or give up hope.", 
+            "They rely on others, even when there is no evidence that they will help.", 
+            "They consider the optimal outcome of a situation as a given, rather than a possibility.", 
+            "\"She looked at me with a serene smile, and I felt all my worries and anger melt away. My head was clouded with a giddy excitement, and I was unable to think for the beautiful calm that had settled into my mind.\"", 
+            "One or both of the Eidolon's eyes glows with a soft white light. With direct eye contact and an expenditure of Anima, the Eidolon can cause an artificial happiness to well up within another who is not extremely agitated or distracted. This sensation causes the target to behave much like they are intoxicated, saying or doing things that they would not otherwise, and becoming rather susceptible to suggestion. After a single dose of this false happiness, creatures develop an immunity to it that lasts a lifetime.", 
+            "The Eidolon can turn their calming gaze to create a rush of excitement and optimism-fueled adrenaline as well. This inspires an ally to temporarily forget their wounds and act with full proficiency. Allies do not become immune to this boost of energy if they willfully accept it.", 
+            "The Eidolon's gaze can send even an angry, rampaging beast to its knees for a few moments. So consumed by optimism and bliss, the Eidolon loses some sense of empathy. They never feel urgency, anger, or despair, and are unable to actively engage in combat with any creature. Instead, they are relegated to aiding allies and fighting indirectly."
+        ], 
+        "Name": "Blissful Gaze", 
+        "Personality": "Optimistic"
+    }, 
+    {
+        "Data": [
+            "Vice", 
+            "Stone", 
+            "miserliness", 
+            "\"The purpose of a thing is to be owned, not used.\"", 
+            "They will not spend their own money or use their own tools when they can use someone else's instead.", 
+            "They hoard treasures and wonders away without using them.", 
+            "They play Mystic Empyrean using a corebook that they do not own or have not bought.", 
+            "\"He had a sword and shield of his own, I could see them at his side. \"I\u2019d rather not risk breaking mine\" he told me, as we both stood to face the advancing hordes. When I reached for my own sword, I found it was gone, and in his hands instead.\"", 
+            "The Eidolon's hands glow with an oily silver sheen. They can \u2013borrow' tools and weapons from allies nearby and use them at a moment's notice, with or without their permission. The borrowed item teleports into the Eidolon's hands while being used, and then teleports back to its owner once it is no longer needed.", 
+            "The Eidolon is able to borrow from enemies as well as allies. However, they can only borrow as much as they can carry and use.", 
+            "Consumed by the desire to protect themselves and their own possessions, the Eidolon can never use equipment or traits that they possess (other than this trait). They may borrow traits from nearby allies as well, but those allies lose the traits while they are being borrowed."
+        ], 
+        "Name": "Borrower", 
+        "Personality": "Miserly"
+    }, 
+    {
+        "Data": [
+            "Virtue", 
+            "Light", 
+            "dutifulness", 
+            "\"Come wind or storm, it's my duty, and I'll not leave it.\"", 
+            "They will not abandon a cause even when all hope is lost.", 
+            "They operate according to plans and objectives, not desires and whims.", 
+            "They accept responsibility and take it seriously.", 
+            "\"Chains bound her body from head to toe, holding her arms fast at her sides and shackling her down to all manner of weapons and weights. We thought her helpless, but at her command, those same chains rose up and brought their weapons to bear against us.\"", 
+            "Chains, or some other form of bond, form on the limbs of the Eidolon. These can be used to grapple, shield oneself, or lash out at enemies. The chain's owner has some control over the physics surrounding the chains. A bound character can never escape from a bond or imprisonment without assistance.", 
+            "The Eidolon's chains gain additional weights or burdens, such as books, blades, treasure chests, or the like, which can add power and utility to their movements but can prove as much of an impediment in the wrong situations.", 
+            "The Eidolon becomes bound to a debilitating object such as a throne, heavy treasure chest, massive sword, giant rock, or some similar structure that precludes movement entirely, unless they spend Anima to pick up the bond and move it with them (or has assistance with it). The Eidolon can trap anyone who comes close to them by lashing them to the same bond he shares, debilitating them in a way similar to his own. With assistance, they can also use this massive bond as a weapon against foes, to hold ground from enemies, or provide shelter, depending on the type of bond."
+        ], 
+        "Name": "Bound", 
+        "Personality": "Dutiful"
+    }, 
+    {
+        "Data": [
+            "Personality", 
+            "Stone", 
+            "gruffness", 
+            "\"If you're not going to make yourself useful, then get out of the way.\"", 
+            "They push away others who would become close to them.", 
+            "They speak to others harshly.", 
+            "They show little patience with the failures of those around them.", 
+            "\"A hardened shell covered in rough spikes covered his back, making him slow but sturdy. That shell was as much a weapon as a defense, and I could smell the blood upon the barbs of it.\"", 
+            "A thick, plated shell covers the exterior of the Eidolon. The shell fits comfortably and is normally soft, but can be strengthened to resist heavy impacts and absorb direct attacks easily.", 
+            "The Eidolon's exoskeleton is always at full strength, and cannot be cracked except by the toughest of forces. Additionally, the Eidolon can adorn their shell with spikes, barbs, or hooks that cause extensive damage when slammed into enemies.", 
+            "The Eidolon's bulky outer shell is completely indestructible, and makes a powerful weapon in addition to its capabilities as armor. It is coated with a natural oil that makes impacts slide off of it, making its spikes or barbs even deadlier. However, the grotesque shape of the shell and the smell this oil emits make the Eidolon unwelcome in most social situations."
+        ], 
+        "Name": "Carapace", 
+        "Personality": "Gruff"
+    }, 
+    {
+        "Data": [
+            "Personality", 
+            "Fire", 
+            "recklessness", 
+            "\"It's all about the rush.\"", 
+            "They act without thought of the consequences to themselves or others.", 
+            "They are more interested in the excitement of a plan or course of actions than its practicality.", 
+            "They play against odds, and play against them at high stakes.", 
+            "\"A huge wheel of wood and stone was bound to his back, its weight and ponderousness cutting down into his flesh. As I watched in wonder, he swung the wheel down from his back and proceeded to ride upon it, becoming an unstoppable, uncontrollable force.\"", 
+            "A wheel or sled of some kind is built into the Eidolon's body. They can use this implement to hurl themselves at great speed in any direction, usually dictated by gravity. While rushing like this, their body is protected by the wheel. However, once they drop to a controllable speed, this invulnerability fades.", 
+            "The Eidolon's wheel is their preferred method of movement. While moving at great speed, they are unstoppable, able to smash through all but the strongest barriers. Those that are too strong to be broken will deflect the Eidolon without harm.", 
+            "The Eidolon is bound to their wheel, and must utilize it for all movement. While moving at great speeds, they gain some limited hovering ability, and can lift into the air like a helicopter or a boomerang."
+        ], 
+        "Name": "Cartwheel", 
+        "Personality": "Reckless"
+    }, 
+    {
+        "Data": [
+            "Talent", 
+            "Stone", 
+            "meticulousness", 
+            "\"There's a certain way it has to be done.\"", 
+            "They do things \"by the book\" or according to rigid guidelines.", 
+            "They leave things in order, and avoid disturbing others or their property.", 
+            "They cannot stand to leave a job half-done or sloppily done.", 
+            "\"He moved with a rigid but practiced step, each footfall measured exactly to a distance from the last. His voice was like sheets of tin scraping together, and he appeared as heavy as a solid stone.\"", 
+            "The Eidolon's bodily is partially or wholly created from machines and synthetic parts. With mechanical precision and hydraulic strength, the Eidolon can act with great force, both on a concentrated and wide scale.", 
+            "The Eidolon can graft mechanical and technological enhancements into their clockwork body, so that they have increased power or limitless ammunition. They may also require alternate sustenance, such as oil and fuel rather than food and water. As with all machines, the Eidolon is susceptible to jamming and malfunction if they become too dirty or wet.", 
+            "The Eidolon is predictable. Anyone who has watched them for a few minutes (or even a few seconds in combat) and has the presence of mind to consider them can predict exactly how they will move and act. The limits of their gears prevent them from doing otherwise. The Eidolon's clockwork strength is so great that once they engage in an action or attack, it cannot be stopped or sabotaged (though it may still be resisted)."
+        ], 
+        "Name": "Clockwork", 
+        "Personality": "Meticulous"
+    }, 
+    {
+        "Data": [
+            "Virtue", 
+            "Light", 
+            "faith", 
+            "\"Things will work out \u2013 just try to believe.\"", 
+            "They believe in a higher power that guides them and their actions.", 
+            "They trust others to lead and guide them.", 
+            "They often base decisions on uncertainties which they unwaveringly expect to come to pass.", 
+            "\"Her flesh was scrawled with notes and treasures and warnings like the face of a map, and her hair was black and sparkling with motes of light like a star chart. When she spoke, it was with perfect confidence regarding our next destination and what we would find there.\"", 
+            "With a map of the world and the heavens written down upon their very flesh, the Eidolon seems to have an uncanny grasp of the order of things around them. By fueling this power with Anima, they can reach within their soul and find the path to any destination, provided that they know what they are looking for.", 
+            "The Eidolon has a supernatural clairvoyance which reveals the locations of things around them. They can sense even the contents of closed doors or containers. These supernatural senses flood in faster than the natural senses, and sometimes even faster than time itself, giving the Eidolon a limited precognizance.", 
+            "The Eidolon is blind and deaf, and must rely wholly on their supernatural senses for direction. They instinctively know the architectural layout of any area they are in, and has a clairvoyant sense of who occupies space and where. However, these senses are not always easily to interpret, and make the Eidolon's reflexes slow."
+        ], 
+        "Name": "Compass", 
+        "Personality": "Faithful"
+    }, 
+    {
+        "Data": [
+            "Talent", 
+            "Air", 
+            "fashionable tendencies", 
+            "\"It's the look that counts. Everything else is second impressions.\"", 
+            "They worry about what others will perceive them as.", 
+            "They strive to adopt the customs, fashion, language, and ideas of whatever culture they visit.", 
+            "They take an interest in politics, art, and culture of the realms of the world.", 
+            "\"Before I even saw her, I knew. This is someone that I wanted to be around. Someone worth listening to. Someone worth lending support to. When I saw her, all semblance of doubt fled from my mind. I wanted to be beside her, and hear her. I wasn't alone.\"", 
+            "The Eidolon possesses a jewel that looks similar to jewelry of one kind or another, but built into their body. By 'turning on the charm', the Eidolon makes everyone who gazes upon the light of this jewel consider them as a friend, even if they have never before met. This effect doesn't work on enemies or those who have renounced the Eidolon as a friend due to their actions.", 
+            "Beloved of those surrounding them, the Eidolon may ask favors of those who are caught in the web of their will. These false friends are not just friendly, but loyal to the Eidolon. Even in the face of reasons to the contrary, they will continue to treat the Eidolon as a friend and ally. This effect still only works in social situations\u2013the Eidolon cannot request any dangerous or strenuous favors from their allies.", 
+            "The Eidolon's conscriptive nature brings all those around them together to their will. They can request dangerous and strenuous favors, such as to fight in their name or to sacrifice one's life in their place. For all this, the Eidolon becomes far more delicate, and suffers deep wounds far more easily than others."
+        ], 
+        "Name": "Cosmopolitan", 
+        "Personality": "Fashionable"
+    }, 
+    {
+        "Data": [
+            "Virtue", 
+            "Electricity", 
+            "lucidity", 
+            "\"it all seems perfectly clear to me.\"", 
+            "They do not doubt their decisions or actions.", 
+            "The reflect carefully on their words before speaking, and speak exactly as they mean.", 
+            "They remain calm in the face of chaos and danger.", 
+            "\"His whole body was covered in crystals of perfect color and clarity, reflecting the light like a prism. A calming light seemed to wash over me at his smile, and he exuded an aura of knight and scholar and sage all merged into one.\"", 
+            "Crystals adorn the body of the Eidolon, and these can store and release light as needed. With sufficient charge, the Eidolon can release beams of intense, burning light, or radiate like a lantern.", 
+            "The Eidolon's crystalline body is resistant to damage, but is brittle and shatters with sufficient force. By drawing in light from the sun or some other powerful source, the Eidolon can restore their crystal flesh with only a few moments of concentration.", 
+            "The Eidolon's transparent body reveals a heart encased in crystal and pulsing with glorious light. Able to generate their own powerful source of light at will by expending Anima, the Eidolon's transparent flesh makes it easy for enemies to strike out at his heart, creating an easy target for some."
+        ], 
+        "Name": "Crystalline", 
+        "Personality": "Lucid"
+    }, 
+    {
+        "Data": [
+            "Vice", 
+            "Darkness", 
+            "malice", 
+            "\"There's no point if I can't watch someone suffer.\"", 
+            "They take pleasure in harming others or taking revenge for wrongdoings against them.", 
+            "They hold grudges for long periods, and will not accept apologies.", 
+            "They relish wielding power over others to their detriment.", 
+            "\"When I looked into her black eyes and her sinister, expectant grin, I saw a premeditated, methodical evil more profound than anything I had ever imagined. It chilled me so deeply, I could neither scream nor run.\"", 
+            "The Eidolon's eyes take on a pitch black sheen. With direct eye contact, they can freeze a sentient enemy perfectly in place with fear for as long the eye contact is maintained.", 
+            "Any creature who sees the Eidolon's face is struck with terrible fear. After a few moments of broken line of sight with the Eidolon, beings who have been frozen in fear can break free of the power's grip and return to normal, though they may still be shaken for several minutes afterward.", 
+            "A single look at the Eidolon's face induces blood curdling madness. Even after line of sight or eye contact is broken, a victim is often so shaken that they can do nothing but curl up and whimper on the ground. If the Eidolon ever glimpses their own reflection, however, they suffer the same terror that is inflicted on others by their gaze."
+        ], 
+        "Name": "Deathly Grin", 
+        "Personality": "Malicious"
+    }, 
+    {
+        "Data": [
+            "Vice", 
+            "Light", 
+            "pride", 
+            "\"You're nothing compared to me!\"", 
+            "They talk down to others or demand undue respect from them.", 
+            "They believe that they are above the law, courtesy or morality.", 
+            "They overestimate their abilities or reputation.", 
+            "\"His skin was covered in scales, and he seemed to slither in a lithe, practiced way, even as he crossed the floor. Little jets of smoke escaped his mouth, and I knew on some instinctive level that I was being considered for a potential meal just as seriously as for a potential ally.\"", 
+            "Scales and neck frills adorn the Eidolon's flesh, making them tougher and more resilient to the elements. They are taller and stronger than average, and may develop claws and a tail, depending on the exact manifestation of the trait.", 
+            "The Eidolon can contort their body like a lizard, and can slither up walls and across floors easily. They develop the ability to breathe fire, and to eat raw meat without fear of disease. With effort, the Eidolon can grow slightly and shift shape to the size and form of a small land dragon.", 
+            "With the ability to transform into a full-sized dragon at will, the Eidolon can fly and possesses great might. However, regardless of size they have the appetite and metabolism of a full-sized dragon, and cannot sleep soundly except on a bed of gold."
+        ], 
+        "Name": "Dragonlike", 
+        "Personality": "Prideful"
+    }, 
+    {
+        "Data": [
+            "Personality", 
+            "Darkness", 
+            "furtiveness", 
+            "\"I'm not sticking my neck out there. I'll stay here where it's safe.\"", 
+            "They prefer to keep to themselves and avoid attention.", 
+            "They stay out of danger and dangerous situations.", 
+            "They avoid taking risks or putting themselves in situations that could become dangerous.", 
+            "\"I wasn't sure at first if it was a man or a shadow that approached me. He seemed to be both there and not. I know he gave me his name, and showed me his face, but in my memory there are only shadows of our conversation, and I'm certain that I would not recognise him, should I meet him again.\"", 
+            "The darkness seems to shift and clamour about the Eidolon's feet like a robe. Their features and words become muddled and vague when recalled, and they blend away to near invisibility in crowds or dark corners.", 
+            "The Eidolon can become a shadow, and physical forces pass through them as if they were made only of smoke. As a shadow, however, they are unable to come into contact with glowing objects, bright lights or fire without being harmed. These objects are always solid to them.", 
+            "Able to manipulate their shadow as a weapon and shield, the Eidolon is also bound to it. Bright light sears their body, and can leave blistering scars. While in darkness or dim light, the Eidolon can form powerful weapons, blades, armour and other tools from the very darkness around them."
+        ], 
+        "Name": "Duskwalker", 
+        "Personality": "Furtive"
+    }, 
+    {
+        "Data": [
+            "Personality", 
+            "Light", 
+            "conscientiousness", 
+            "\"You have to consider the bigger picture.\"", 
+            "They consider the larger outcome of their actions.", 
+            "They are concerned with the culture, welfare, and development of realms.", 
+            "They show an interest in the motivations and reasons for others' actions, even enemies.", 
+            "\"As she spoke to the Earth, I felt the whisper of a breeze and the soft settling of loam as a reply. The ground swelled to aid her, forming stairs of stone to make a way out for us.\"", 
+            "The Eidolon is possessed of a golden tongue that knows the secret language of the stones. By pleading for aid from the earth, the Eidolon can cause tremors, reform terrain, and raise barricades of stone. The earth is more able to hear and respond in undeveloped places, such as fields or caverns, which civilisation has not conquered.", 
+            "The Eidolon's power of speech expands to encompass water as well. Using this gift, they can speak to oceans and streams, all of which connect and form a valuable network of information.", 
+            "Able to speak to the sky itself, the Eidolon has almost limitless information from a birds eye view, and can call down thunder, lightning and heavy winds in places where the air is clean and unpolluted. This mighty voice comes at the price of the ability to speak other languages. Though they can speak silently to the world, others regard this Eidolon as wholly mute."
+        ], 
+        "Name": "Earth Whisperer", 
+        "Personality": "Conscientious"
+    }, 
+    {
+        "Data": [
+            "Drawback", 
+            "Water", 
+            "collusion", 
+            "\"Let's just give them what they want, and maybe they'll leave us alone...\"", 
+            "They give up or surrender with little resistance.", 
+            "They will quickly apologise or back down from things they have said.", 
+            "They attempt to bargain with enemies to save their own skin.", 
+            "\"Looking at him, a strange, alien hunger seemed to come upon me. I couldn't help myself, he just looked too delicious to resist...\"", 
+            "The Eidolon's body is actually composed of some commonly edible substance such as bread, confectioner's sugar, smoked meat, or the like. Enemies find it difficult to ignore them, and and focus on them first whenever they would want to make a snack of a party member.", 
+            "Even more edible than before, the Eidolon gives off a wonderful odour of freshly baked bread, freshly roasted meat, or other delicious foods that even civilised creatures have trouble resisting.", 
+            "The Eidolon can lace their body with natural toxins, making their flesh deadly or at least unpleasant for any who happen to eat it. If they wilfully wound themselves by tearing off a limb or other body part, the part grows back quickly just as it was before being torn off."
+        ], 
+        "Name": "Edible", 
+        "Personality": "Collusive"
+    }, 
+    {
+        "Data": [
+            "Personality", 
+            "Fire", 
+            "relentlessness", 
+            "\"You know, I'm not going to stop until I have my way, so make this easier for us all and yield.\"", 
+            "They will not stop fighting until their enemies are dead or surrendered.", 
+            "They continue to press others for information or concessions even after being told off.", 
+            "They ignore threats, injunctions, or ultimatums without considering them.", 
+            "\"He came at me in a stream of blades \u2013 a whirling torrent of death and blood that whipped through everything in its way and whisked toward me at inhuman speed. I didn't even have time to scream...\"", 
+            "The Eidolon's skin takes on a silvery, metallic sheen, and they can produce metal weapons of any kind from beneath their skin with just a thought. These weapons disappear several seconds after they leave contact with the Eidolon, who also gains a slight advantage to speed and perception when using them. These weapons, created from the Eidolon's flesh in this way, can never harm them.", 
+            "By focusing their power, the Eidolon can will the weapons they create to last longer, even after leaving his/her immediate sight. This allows them to arm a small force all on his/her own.", 
+            "The Eidolon can eject and withdraw blades from any part of their body, making them deadly on any side. They can harden the metallic sheen of their skin to create a powerful defence against enemy strikes. However, contact with water will cause the Eidolon's body to rust rapidly unless it is dried off and polished meticulously."
+        ], 
+        "Name": "Endless Knives", 
+        "Personality": "Relentless"
+    }, 
+    {
+        "Data": [
+            "Talent", 
+            "Fire", 
+            "athletic tendencies", 
+            "\"Let's get up and move! I'm not going to sit here all day!\"", 
+            "They prefer physical action to talking or puzzle-solving.", 
+            "They train constantly to increase their ability.", 
+            "They use their own dexterity, strength and agility more than special powers, weapons or tools.", 
+            "\"With a small effort of will, she charged her hand with electric power. Lightning crackled between her fingers as she touched the machine, and it whined hideously and died in a puff of black smoke.\"", 
+            "The Eidolon's fingertips become crystalline \u2013 looking like precious stones of various hues. With a force of will, they can fill their hands with elemental power and press that power into another object with a touch. This power can be used to create a flaming sword, to ground an electrical device, or to create a shield against elemental attacks, to provide a few examples. The effect of the power is always localised, and generally wears off within a few minutes of activation.", 
+            "With a greater infusion of will, the Eidolon can hurl blasts of elemental energy in whatever flavour he/she wishes. These blasts explode on contact with a target, and do not energise it in the same way that a touch would.", 
+            "The Eidolon can draw out the power of Anima to create new objects forged of pure creative energy. Rather than a flaming sword, for example, they could create a sword of fire itself. The Eidolon automatically charges everything they touch with whatever type of energy they last used, making everyday life awkward and sometimes difficult."
+        ], 
+        "Name": "Energised", 
+        "Personality": "Athletic"
+    }, 
+    {
+        "Data": [
+            "Vice", 
+            "Electricity", 
+            "vindictiveness", 
+            "\"No-one talks to me like that and gets away with it!\"", 
+            "They must have the last word in an argument, or the last blow in a fight.", 
+            "They must ensure retribution against those who wrong them.", 
+            "They react violently to small slights or others' mistakes.", 
+            "\"I could feel the temperature rising sharply as his anger grew hotter, eyes on me. His flesh turned red with rage and concentration, and I ran, unsure of what would happen, but certain that I did not want to be close when it did.\"", 
+            "With bright red skin that is wholly immune to fire, the Eidolon can unleash explosive force from their body. Though they do not actually explode, an explosive force washes off of them just as though they had.", 
+            "The Eidolon can cause objects to charge with unstable energy and explode several seconds after touching them. This unstable energy visibly warps and deforms an objects before it ignites.", 
+            "With greater control over his power, the Eidolon can create concentrated and pinpoint explosions that lash out in only a single direction or in a cone before him. They are unable to turn down a challenge, ignore a threat, or be insulted or struck without returning the same in kind unless physically prevented from doing so."
+        ], 
+        "Name": "Explosive", 
+        "Personality": "Vindictive"
+    }, 
+    {
+        "Data": [
+            "Virtue", 
+            "Fire", 
+            "zeal", 
+            "\"Any means necessary are justified by my goal.\"", 
+            "They pursue their goals with fanatical devotion.", 
+            "They believe in ideals and are prepared to act on them.", 
+            "They are willing to sacrifice themselves for the sake of an idea or moral.", 
+            "\"With eyes of smoldering flame, he looked at me, passing judgment in a single moment. As I felt the flames began to sear through my very skull, I knew I had been found unworthy.\"", 
+            "Burning with an eternal flame, the Eidolon's eyes glow red hot with power. With a look, they can ignite anything within sight, setting it aflame if flammable, melting it if not.", 
+            "The Eidolon's flame grows in power, and can lance out as a physical beam of red-hot energy that slices through anything they gaze upon.", 
+            "With power exceeding reason or judgment, the Eidolon's gaze burns to cinders anything it rests upon, whether they will it or not."
+        ], 
+        "Name": "Eye of Flame", 
+        "Personality": "Zealous"
+    }, 
+    {
+        "Data": [
+            "Virtue", 
+            "Light", 
+            "honesty", 
+            "\"If I cannot trust my own words, how can I trust anything?\"", 
+            "They feel compelled to tell the truth, especially when it is inconvenient.", 
+            "They do not embellish the truth, nor detract from it in speaking.", 
+            "They speak and act earnestly, believing in the things they say and do.", 
+            "\"His glowing gaze seemed to burn through me, reading me from the inside out. I knew that every word I spoke and every move I made was being scrutinized. A single lie, and I would be undone.\"", 
+            "The Eidolon's eyes glow a haunting bluish color, and their gaze intimidates any whose eyes they meet. The Eidolon can instinctively tell if the words spoken by another are truth or lies, as long as they are able to meet eyes with the speaker while they speak.", 
+            "With a gaze that penetrates both word and action, the Eidolon can read another's body language and intentions almost without fail. They instinctively sense insecurity, fear, confidence, deception, and the like.", 
+            "By gazing into the eyes of another, the Eidolon is able to read the very thoughts from another's mind. While he/she cannot dredge up the thoughts or memories of another, he/she can read their surface thoughts. So deeply ingrained in their being is the spirit of truth, the Eidolon becomes unable to lie willfully."
+        ], 
+        "Name": "Eye of Truth", 
+        "Personality": "Honest"
+    }, 
+    {
+        "Data": [
+            "Drawback", 
+            "Electricity", 
+            "dishonour", 
+            "\"I know what I said, but the situation has changed.\"", 
+            "They go back on their commitments without compunction.", 
+            "They use underhanded tactics or cheating to get what they want.", 
+            "They quickly abandon codes or morals when they no longer suit them.", 
+            "\"He stood strong and imposing in my way, but as I stepped forward to face him, his confidence wavered. I saw the worry in his eyes, and in a rush of inspiration, I charged forward. As though he weighed no more than a stone, I tossed him aside.\"", 
+            "Though as strong as any ordinary creature of their stature, the Eidolon has very little weight \u2013 only a tenth of what they would normally weigh. Others can push them about or toss them aside with little effort.", 
+            "The Eidolon's weight diminishes even more, so much so that a strong wind can pull them away. Many Eidolons compensate for this by wearing heavy armor and clothing to increase their weight.", 
+            "Completely weightless, the Eidolon has limited control over their movement. Like a ghost, they can guide themselves slowly though the air, and can fly freely without external aid. Anything the Eidolon wears or carries becomes weightless while in their grip as well."
+        ], 
+        "Name": "Featherweight", 
+        "Personality": "Dishonourable"
+    }, 
+    {
+        "Data": [
+            "Personality", 
+            "Water", 
+            "jubilance", 
+            "\"This calls for a celebration!\"", 
+            "They spend their spare time partying or celebrating.", 
+            "They will accept any excuse to celebrate.", 
+            "They pay special attention to the traditions, holidays, and festival culture of the realms they visit.", 
+            "\"A broad, smiling man stood before the crowd, as though ready to make a celebratory speech. He raised his hands in the air and, with a clap, an explosion of fireworks and brilliant lights erupted overhead, drawing the awe of the crowd and heralding the start of the festivities.\"", 
+            "The Eidolon's hands are dusted with gunpowder, and the smell of delicious food and wine follow them everywhere. With a simple snap, they can create brilliant flashes of light or sounds like fireworks. They can light candles or fuses and can send out showers of colored sparks with a flick of his fingers.", 
+            "With a little concentration, the Eidolon can will rockets and fireworks into being around themselves. These rockets are too small to carry people, but could be used to send messages, carry small objects, or create projectiles of light and deafening sound.", 
+            "The Eidolon can create rockets large enough to fly upon, and can send fire and sparks from their feet to hover or leap great distances with rocket power.They require laughter and wonder much like others require food, and their powers begin to wane unless they can entertain and be entertained."
+        ], 
+        "Name": "Festival", 
+        "Personality": "Jubliant"
+    }, 
+    {
+        "Data": [
+            "Vice", 
+            "Stone", 
+            "sloth", 
+            "\"This seems like a lot of trouble for what it will get us...\"", 
+            "They seem uninterested in rewards and incentives which would normally catch their attention.", 
+            "They decline quests, jobs, and chances to help others if they seem to inconvenient.", 
+            "They are interested in getting a full share of rewards while doing as little work as possible.", 
+            "\"One massive arm dragged the ground behind him. Though it must have weighed a ton, he lifted it with an indifferent sort of boredom and smashed through the gate in a single blow.\"", 
+            "One of the Eidolon's limbs is overlarge and heavy. The additional weight of this arm makes it slow to move, but nearly unstoppable once it is set into motion.", 
+            "The Eidolon's heavy limb is hardened to the point of indestructibility, and their grasp is strong enough to twist metal with ease. They may adorn this arm with barbs or nails so that it causes additional damage when used to attack.", 
+            "Weighted by the heavy limb, the Eidolon is unable to run or quickly react to oncoming danger. They can fuel Anima into this limb to increase the weight and durability of their entire body for a short time, becoming like an unstoppable golem of granite."
+        ], 
+        "Name": "Fist of Stone", 
+        "Personality": "Slothful"
+    }, 
+    {
+        "Data": [
+            "Talent", 
+            "Darkness", 
+            "duplicity", 
+            "\"A little lie can take you a long way...\"", 
+            "They use lies to get their way.", 
+            "They have no compuction at deceiving others.", 
+            "They accept credit and rewards when they're not due.", 
+            "\"I didn't want to believe, but his words had that grim quality of truth to them. They were the kind of words you hope are a lie, but cannot deny deep down.\"", 
+            "With a snakelike tongue, the Eidolon finds it uncannily easy to weave tales and lies that will goad others into doing his bidding. Non-Eidolons will believe the speaker without fail, and Eidolons are hard pressed to ignore their words.", 
+            "Even Eidolons believe the speaker's words without fail, as long as they are not presented with evidence to the contrary.", 
+            "Even in the face of direct evidence to the contrary, those who hear the Eidolon's words can do naught but to believe them. However, the Eidolon is unable to lie, and thus must forge their deceptions through half-truths alone."
+        ], 
+        "Name": "Forked Tongue", 
+        "Personality": "Duplicitous"
+    }, 
+    {
+        "Data": [
+            "Personality", 
+            "Darkness", 
+            "solitary tendencies", 
+            "\"I don't need you or anyone else to help me.\"", 
+            "They keep to themselves and do not share their past or feelings with others.", 
+            "They prefer to be alone, rather than to travel or stay with the group.", 
+            "They seek out quests, adventures, or jobs that allow them to work alone.", 
+            "\"Her lips were blue and icy, and little wisps of frost escaped her lips in the summer heat. As she looked at me, I felt my blood turn to ice, and everything went dark as her impossibly cold fingers brushed my eyes.\"", 
+            "Chilled by solitude and separation, the Eidolon is able to create ice with a touch, or harden the vapor in the air into a solid form. Immune to cold, Eidolons with this ability are susceptible to heat and fire.", 
+            "The Eidolon's sphere of influence with this power increases. Temperatures drop when they enter a room, and they can freeze nearby sources of water with a look rather than a touch. Summer plants often wither in their gaze.", 
+            "Fire flees from the presence of the Eidolon, and candles, fireplaces, campfires, and any other incandescent source of light or heat sputter out in their presence. Combustion-powered weapons and engines refuse to work in their presence, and incendiary weapons have no effect on them or those around them."
+        ], 
+        "Name": "Frozen Heart", 
+        "Personality": "Solitary"
+    }, 
+    {
+        "Data": [
+            "Vice", 
+            "Air", 
+            "greed", 
+            "\"If there's profit to be had, count me in.\"", 
+            "They desire wealth for its own sake, rather than its uses.", 
+            "They think of value solely in terms of money, rather than utility, spiritual, or sentimental value.", 
+            "They hoard money and does not spend it when they does not have to.", 
+            "\"His skin shimmered like the sun, and his hands glittered with outstretched treasures, offered to me with a glittering smile. As I reached out to touch them, the gold sheen of them began to cover my own skin, sinking in to the bone, turning me to gold.\"", 
+            "With shimmering golden skin, the Eidolon can create gold coins and other small gold baubles with a touch. These baubles can be used to tempt others, to make payments, or for any other use that a soft, highly conductive metal might find. The gold created by the Eidolon is real, and does not disappear or fade with time. Creating gold like this exhausts an Eidolon, and most cannot create more than a handful of coins without rest.", 
+            "Just as creating gold exhausts the Eidolon, consuming it gives them strength. They can devour precious metals and gemstones to restore their wounds, though they cannot consume gold that they have created.", 
+            "Anything the Eidolon touches becomes tinged with gold, and eventually turns to gold completely. This transformation gradually wears off on Eidolons, but is permanent when effected on other things. The Eidolon is unable prevent themselves from using this ability on anything they touch."
+        ], 
+        "Name": "Gilded", 
+        "Personality": "Greedy"
+    }, 
+    {
+        "Data": [
+            "Vice", 
+            "Stone", 
+            "scorn", 
+            "\"Someday I hope we'll understand why we put up with someone as worthless as you.\"", 
+            "They talk harshly to others and reprimand others strongly.", 
+            "They expect more of others than is reasonable.", 
+            "They feel entitled to the service and praise of others.", 
+            "\"She looked at me with such derision and scorn as I had never seen \u2013 her stony eyes glinting with terrifying malice. And then, as my eyes met hers, everything was suddenly dark.\"", 
+            "For as long as the Eidolon's stone eyes meet those of another, that victim is turned to solid stone, and they are unable to move or act.", 
+            "The Eidolon's gaze can turn another to solid stone, and even when they look away the victim remains stone for several seconds afterwards. The Eidolon can harden their own flesh to stone by closing their eyes for a moment, though unlike their victims, the Eidolon moves freely while in this state.", 
+            "A being turned to stone by the Eidolon's gaze remains a solid stone statue until the rising of the sun the next morning (or for 24 hours in regions with no sunrise or sunset). An Eidolon with this trait is unable to love or form meaningful relationships. None are loyal to them, and will serve them only out of fear or for the promise of a reward."
+        ], 
+        "Name": "Graven Eye", 
+        "Personality": "Scornful"
+    }, 
+    {
+        "Data": [
+            "Drawback", 
+            "Darkness", 
+            "apathy", 
+            "\"Tell me why I should care?\"", 
+            "They seem disinterested in events around them.", 
+            "They are not moved to emotion or distress by any means.", 
+            "They have no care for the wellbeing of themselves or others.", 
+            "\"Her form was like a silent ghost \u2013 a half being without emotion or desire. She simply sat there, rapt in her own world, without concern or care for the dangers and wonders all around her.\"", 
+            "The Eidolon's skin pales, and color drains from their features and clothing. They speak in muted tones, and cannot be heard over others without expending a considerable effort of will.", 
+            "Completely without color, the life and excitement seems to drain from the air around the Eidolon. They move slowly, and no one notices them or pays them mind unless they forcibly impose their presence on a situation. His/her opinions and will often go unrepresented.", 
+            "The Eidolon is completely impossible to notice, except when exerting their will to become noticed. They can speak only in the tiniest whisper, and no one who sees them after can remember their features or even that they were there at all."
+        ], 
+        "Name": "Grey", 
+        "Personality": "Apathetic"
+    }, 
+    {
+        "Data": [
+            "Personality", 
+            "Fire", 
+            "headstrong tendencies", 
+            "\"Anyone who doesn't get our of my way had better be prepared to get hurt!\"", 
+            "They prefer direct approaches in situations where delicacy is expected.", 
+            "They do not bow or bend to the authority of others.", 
+            "They strongly prefer action to deliberation.", 
+            "\"He raised his hand and shouted, unleashing a barrage of molten energy that splashed through our best-laid defenses. All we could do was to cover our heads and pray for our lives.\"", 
+            "The Eidolon's palms open up into veins that connect to their heart and open into the air. With a thought, the Eidolon can send a surge of Anima through these veins, which manifests as a powerful burst of elemental energy.", 
+            "With increased power, the Eidolon's Hand cannon can form its destructive energy into grappling hooks, ropes, acid blasts, grapeshot, and any other material object that can be reasonably shot.", 
+            "The destructive power of the Eidolon's Hand Cannon increases, such that he/she can hurl explosive bursts of energy that spread over a wide area. The Eidolon can also maintain a continuous short stream of energy that projects in a cone before them. They find themselves unable to wield any weapon in their hands, which blister and burn at the touch of metal."
+        ], 
+        "Name": "Hand Cannon", 
+        "Personality": "Headstrong"
+    }, 
+    {
+        "Data": [
+            "Virtue", 
+            "Air", 
+            "helpfulness", 
+            "\"To each according to their need.\"", 
+            "They are more concerned about the wellbeing of their allies than themselves.", 
+            "They are constantly assisting others, rather than pursuing their own initiatives.", 
+            "They are unwilling to ignore pleas for aid from others.", 
+            "\"His many limbs stretched and worked, lifting and freeing me from the debris with speed and skill. Before I could stand and thank him, he had already turned to save the others who were crying for help.\"", 
+            "The Eidolon possesses additional limbs that are just as strong and dextrous as their standard pair. These additional arms make them an expert climber, swimmer, melee fighter and grappler.", 
+            "All of the Eidolon's arms can stretch and deform to a limit of five times their normal length. This can allow the Eidolon excellent acrobatic ability, as well as the opportunity to reach things that are outside the grasp of others.", 
+            "The Eidolon can create limbs of phantom energy at will. These limbs function just as well as their standard limbs. Bound by their nature, they can never ignore a plea for help that reaches their ears."
+        ], 
+        "Name": "Handy", 
+        "Personality": "Helpful"
+    }, 
+    {
+        "Data": [
+            "Virtue", 
+            "Water", 
+            "kindness", 
+            "\"You look like someone who could use a friend.\"", 
+            "They give to others what they could rightly keep for themselves.", 
+            "They will not speak ill of others, even if they deserve it.", 
+            "They offer aid without being asked.", 
+            "\"As her hand rested on my brow, a soft glow and a cool, calming sensation fell across my whole body. As my eyes opened, I felt whole once again.\"", 
+            "With a touch of her hand, the Eidolon can heal any superficial wound. Although unable to heal themselves, they can repair the wounds of others, including those of animals and spiritual beings", 
+            "The Eidolon can expend Anima in order to remove all deep wounds from any Eidolon, including themselves. With a simple touch, the corruption that ravages another's heart can be carried away in a puff of mist.", 
+            "The Eidolon's touch heals all wounds, and they heal rapidly from any kind of wound (except a heart wound or a superficial wound that removes their healing Hand). Sworn only to heal, they suffer a deep wound every time they cause harm to another \u2013 direct or otherwise."
+        ], 
+        "Name": "Healing Hand", 
+        "Personality": "Kind"
+    }, 
+    {
+        "Data": [
+            "Drawback", 
+            "Stone", 
+            "sorrow", 
+            "\"If only things were different...\"", 
+            "They hold grudges and regrets, but do not act upon them.", 
+            "They have little will to fight back against forces that oppress or discourage them.", 
+            "They discourage others from their passions or goals.", 
+            "\"Her whole countenance seemed heavy and forlorn, as though living itself were a loathsome burden to her.\"", 
+            "With a heavy heart, moving quickly is difficult for the Eidolon. They have trouble reacting to danger, and the brittle iron in their heart makes it more susceptible to heart wounds.", 
+            "The cold iron heart of the Eidolon chokes out compassion and joy. They display little emotion, and are never shaken by appeals for mercy or pity.", 
+            "A barbed iron heart ravages the Eidolon's insides, filling them with constant pain. With a touch, they can share this pain with others. Anytime the Eidolon causes a deep wound to another, that wound is automatically upgraded into a heart wound."
+        ], 
+        "Name": "Heart of Iron", 
+        "Personality": "Sorrowful"
+    }, 
+    {
+        "Data": [
+            "Personality", 
+            "Darkness", 
+            "detachment", 
+            "\"And what does that matter to me? Nothing.\"", 
+            "They are unconcerned about the suffering or trials of others.", 
+            "They do not make friends or allies.", 
+            "They do not display emotional reaction to things happening around them.", 
+            "\"The wraithlike thing moved in a blur of smoke. Everything about him was nondescript and nebulous, held together only by his coat and hat. Without those, he would have had no form at all.\"", 
+            "The Eidolon's body is less substantial than usual, and is only given form by the clothing they wear. Unclothed portions of the Eidolon's body cannot exert force in the same way that clothed parts can. A gloved hand can wield a weapon, but it will fall through a naked hand as though it were a puff of smoke. Conversely, the Eidolon's unclothed body can pass through walls, and cannot be wounded.", 
+            "Without clothing to hold him/her together, the Eidolon becomes completely incorporeal. He/she can also fold him/herself inside out, for a few moments, making his/her clothing incorporeal as well.", 
+            "By occupying the same space as another Eidolon, the Hollow one can control them like a puppet, wearing another's body as a suit of clothes to control. This works more reliably on weaker willed Eidolons and on Nascent. Even if the Hollow one is unable to take total control of an Eidolon, they can produce subtle influences on another's actions that make them more clumsy. Because of their closeness to nonexistance, the Hollow Eidolon has one less Pure Anima in their personal Balance at the start of a game session."
+        ], 
+        "Name": "Hollow", 
+        "Personality": "Detached"
+    }, 
+    {
+        "Data": [
+            "Vice", 
+            "Fire", 
+            "wrath", 
+            "\"You cross me, and nothing in this earth will be able to help you.\"", 
+            "They become extremely angry at any slight.", 
+            "They act upon their anger without thought of the consequences.", 
+            "They take disproportionate retribution on those who wrong them.", 
+            "\"The flames that wreathed her face burned white with heat, and I could feel her rage radiant and terrible.\"", 
+            "Glowing with living fire, the Eidolon's hair is like a flame that crowns their head. With a little effort, they can create and control flames within their immediate presence, a sphere extending about 3 feet from their body.", 
+            "The Eidolon can wreathe their entire body in flames, becoming a living furnace powered by the rage in their heart. Using the flame, the Eidolon can ignite anything with a touch, melt the strongest metals, or hurl themselves at enemies as a living fireball.", 
+            "The Eidolon's mask of living flame is constant, and their body is always alight with phantom flames that burn anything touching their skin to ash. By fueling this power, they can become a colossal being of fire several stories tall."
+        ], 
+        "Name": "Hot-Headed", 
+        "Personality": "Wrathful"
+    }, 
+    {
+        "Data": [
+            "Talent", 
+            "Darkness", 
+            "exhibitionist tendencies", 
+            "\"I'll bet you've never seen anything like this before!\"", 
+            "They always need to be the center of attention.", 
+            "They enjoy showing off.", 
+            "They use a complex and showy action where a simpler one would suffice.", 
+            "\"The beautiful form moved towards me with subtle grace, meeting my eyes and holding all of my senses rapt. When I reached out to touch her, there was nothing there but smoke, and the man with his sword at my throat.\"", 
+            "The Eidolon possesses a third eye that, when opened, projects illusions. Anyone who meets the gaze of this third eye can be made to see anything the Eidolon wishes. Looking away from the gaze of the Eidolon's eye breaks the spell, and reveals the falsehood of these illusions.", 
+            "The Eidolon's spell of illusion lasts for several seconds after they break their gaze with a victim. After this point, the Eidolon no longer controls the illusions \u2013 they play themselves out in whatever actions they were carrying out when the Illusionist's gaze broke.", 
+            "The Eidolon's illusions grow in power and depth, and they can overwhelm the senses of smell, hearing, and taste. Only a touch shows their true natures. The Eidolon becomes a being of image, much like their illusions, and lacks the substance and strength to lift or manipulate anything heavier than their own clothing."
+        ], 
+        "Name": "Illusionist", 
+        "Personality": "Exhibitionist"
+    }, 
+    {
+        "Data": [
+            "Virtue", 
+            "Stone", 
+            "steadfastness", 
+            "\"I will not stand down!\"", 
+            "They keep their promises and will not back down from their word.", 
+            "They stick to their morals and ideals even when backing down would be easier.", 
+            "They resist changing their impressions or perceptions, even when presented with compelling arguments or evidence.", 
+            "\"The explosion rocked the earth, and the house began to fall in on itself. I thought for sure they would all have perished, but beneath the flames, I saw a single man standing in place of the central support, holding up the structure for others to escape.\"", 
+            "While standing still, nothing can move or overburden the Eidolon. No weight is too heavy for them to bear, and no force strong enough to displace them. If they attempt to push back or alter their positioning at all, however, the spell breaks, and they will be overwhelmed or crushed. If the ground beneath them moves or shifts, their position is changed, and their stance is broken.", 
+            "The Eidolon draws their strength from the earth, and can root themself to the ground, imparting it with the same immutability that they possess.", 
+            "The Eidolon can move freely and still retain their immutability, as long as their feet remain firmly planted on the ground. Cars, trains, trolleys, and other land-based transportations do not operate while this Eidolon occupies them."
+        ], 
+        "Name": "Immovable Object", 
+        "Personality": "Steadfast"
+    }, 
+    {
+        "Data": [
+            "Talent", 
+            "Stone", 
+            "determination", 
+            "\"I will not be dissuaded or discouraged. Get in my way, and you won't like what comes next.\"", 
+            "They pursue their goals relentlessly.", 
+            "They do not consider failure an option or a possibility.", 
+            "They prefer to accomplish goals with hard work rather than cunning.", 
+            "\"I fired again and again, but he only laughed as the blows and bullets washed off of his skin like rain, and continued to walk toward me with that grim, steady pace.\"", 
+            "With a dark, steely sheen, the Eidolon's skin is impervious to mundane attacks like blades, claws, blunt trauma, and the like. This indestructible skin will not resist Anima or Aether fueled attacks or magic, however.", 
+            "The Eidolon's indestructible flesh grows even tougher, to resist Anima-based assaults that rely on energy or on the science that powers wonders and magic.", 
+            "The Eidolon's indestructible nature grows so deep that they cannot be deafened, blinded, or unwillingly distracted from their goals. However, this strength is not without cost, as the Eidolon's weight increases significantly, making it difficult for them to move at a fast pace."
+        ], 
+        "Name": "Indestructible", 
+        "Personality": "Determined"
+    }, 
+    {
+        "Data": [
+            "Personality", 
+            "Electricity", 
+            "exitability", 
+            "\"Woohoo! This is the greatest!\"", 
+            "They display extreme emotions, such as distress, ecstasy, or wrath, in response to trivialities.", 
+            "They have strong emotional responses to hearsay and offhand comments.", 
+            "They continue to be worked up about events long after their impact has passed,", 
+            "\"He took a deep breath, and stood suddenly three times my height, raising his foot above my head with a look of annoyance.\"", 
+            "The Eidolon is able to grow to several times their own height by drawing air into their expandable body. The Eidolon's shape, weight, and strength remain similar to their normal state, despite the new size. Clothing and mundane items grow with the Eidolon's body, but wonders do not.", 
+            "When the Eidolon grows, they may choose to increase his mass and strength to match the size of his new form.", 
+            "The Eidolon may increase the size of wonders they possess along with their body. However, their normal size is extremely small, comparable to a small dog or even a mouse. The Eidolon must return to this tiny size when not actively using the indeterminate size ability."
+        ], 
+        "Name": "Indeterminate Size", 
+        "Personality": "Excitable"
+    }, 
+    {
+        "Data": [
+            "Vice", 
+            "Light", 
+            "faultfinding", 
+            "\"How do you make such obvious mistakes? Any idiot could do better than this!\"", 
+            "They are dissatisfied with the adequate efforts of others.", 
+            "They insult or demean others.", 
+            "They are unsatisfied with the things they have or are offered.", 
+            "\"Her whole body opened up at once, a thousand eyelids sliding open to gaze at me from every direction. Each one glared at me with venomous disdain.\"", 
+            "The Eidolon can open additional eyes anywhere on their body by spending Anima. These eyes can see directly through walls and people, into locked boxes, and through doors. This vision extends about fifteen feet in all directions from the Eidolon. Even with this supernatural vision, they still need light in order to see.", 
+            "The Eidolon's extra eyes emit an eerie golden glow, and can penetrate even complete darkness.", 
+            "The Eidolon can 'hijack' others' eyes and see through them as easily as their own. This power can extend to monsters, allies, animals, and other living beings with eyes, but not to supernatural creatures like Anima Spirits or incorporeal beings like ghosts. It has a range of about fifty yards. The Eidolon's personal field of clairvoyance is always active, but their long distance vision is lost, so they can only see past their fifteen foot sphere of vision by using another's eyes."
+        ], 
+        "Name": "Infinite Eyes", 
+        "Personality": "Faultfinding"
+    }, 
+    {
+        "Data": [
+            "Vice", 
+            "Water", 
+            "gluttony", 
+            "\"Mmmm....\"", 
+            "They enjoy fine food, drink, and pleasures in excess.", 
+            "They take more than they need for themselves.", 
+            "They complain often of being hungry or thirsty.", 
+            "\"His jaws opened wider and wider, baring row upon row of sharpened teeth. Backed into a corner as I was, all I could do was wait helplessly to be devoured.\"", 
+            "The Eidolon is never completely full, no matter how much he eats. Able to unhinge their jaws wide, they can swallow anything they can't chew up, and can digest anything at all, regardless of its material composition.", 
+            "The Eidolon's jaws are sharpened and hardened such that they can slice through almost any substance with little difficulty. The Eidolon can unhinge their jaw wide enough to swallow creatures as large as themselves, though nothing they eat takes up any space in their stomach.", 
+            "Able to devour at an unbelievable pace, the Eidolon can eat tunnels through the earth or snack through the walls of the most well-defended fortress in moments. Their metabolism is incredible, and they will drop unconscious if they do not eat some kind of nutritious food every two hours."
+        ], 
+        "Name": "Insatiate Jaws", 
+        "Personality": "Gluttonous"
+    }, 
+    {
+        "Data": [
+            "Personality", 
+            "Stone", 
+            "contrariness", 
+            "\"I do it just for the sake of being different, that's all.\"", 
+            "They go against the group for no reason other than to be different.", 
+            "They lack common sense, or have a different kind of common sense than others.", 
+            "They separate themselves from others, and prefer to be recognized as an individual.", 
+            "\"He walked casually along the wall, traversing the bottomless well as though there were no danger of falling. Bound as we were by our own gravity, there was nothing we could do to chase him down into that abyss.\"", 
+            "Affected by a unique gravity all their own, the Eidolon can choose to orient themselves with a different surface than the ground. Using this power, they can treat walls, ceilings, or even specific objects as 'down', and gravity will affect them as such.", 
+            "The Eidolon is able to transfer their unique sense of direction to any other person or object with a touch. The time they continue to be affected by this power depends on how long they are in contact with the Eidolon and how long the Eidolon wishes the effect to last.", 
+            "Unable to stand beside others, the Eidolon cannot be subjected to standard gravity, and is constantly bound to one surface or another. In open areas, they can create their own kind of 'invisible ceiling' to walk upon, which puts their head at about the level of others' knees. At any time, they can create one such 'invisible surface' to impose on themselves and others under their power. Only those who are sharing the Eidolon's gravity are affected by this surface."
+        ], 
+        "Name": "Inverse", 
+        "Personality": "Contrarian"
+    }, 
+    {
+        "Data": [
+            "Virtue", 
+            "Air", 
+            "fairness", 
+            "\"For every action, a consequence.\"", 
+            "They reward favors and slights in kind.", 
+            "They will not harm another who has done no harm.", 
+            "They give gifts and assistance where deserved, rather than where they are needed.", 
+            "\"He released the sword, and it flew home like a bullet, as though thrown with such force as to be shot from a cannon.\"", 
+            "The Eidolon's left and right hands are infused with a red and blue glow respectively. The red glow infuses anything it contacts with energy, unleashing it with the force of an explosion. The blue glow drains away energy from an object, causing it to drop like a dead weight when released.", 
+            "The Eidolon can project their blue glow to create a field of negative kinetic energy that stops fast any projectile or bullet.", 
+            "The Eidolon can project their red glow as well, to cause unattended objects to fire off like bullets in any direction he wishes. Consumed by their nature of justice and fairness, the Eidolon must return any gift or favor, or any slight or injury, with one in kind."
+        ], 
+        "Name": "Kinetic", 
+        "Personality": "Fair"
+    }, 
+    {
+        "Data": [
+            "Virtue", 
+            "Electricity", 
+            "demagogue tendencies", 
+            "\"Let me tell you a thing or two, child.\"", 
+            "They are interested in teaching others.", 
+            "They feel it necessary to instruct those around them on matters of opinion and fact.", 
+            "They correct others when they speak incorrectly.", 
+            "\"Her body glowed with a calming, unearthly blue, and I was captivated by the presence of that glow \u2013 drawn to it like a moth.\"", 
+            "Somewhere within the body of the Eidolon, usually around their heart, is a brilliant natural light. This light can be dimmed or brightened at will. When fueled with Anima, the light calms and pacifies aggressive creatures and enemies, as long as they remain within its glow.", 
+            "The Eidolon can create a great flash of light from their lantern, which momentarily stuns any who are looking at them when it occurs.", 
+            "The entrancing vision of the Eidolon captivates all who see them, and looking at them for more than a few moments, especially if the Eidolon dims the light, lulls others into a soft sleep. As for themselves, the Eidolon draws attention like a beacon, and is unable to hide or conceal themselves by any means."
+        ], 
+        "Name": "Lantern", 
+        "Personality": "Demagogue"
+    }, 
+    {
+        "Data": [
+            "Personality", 
+            "Water", 
+            "flightiness", 
+            "\"Sorry, but something more important just came up.\"", 
+            "They break commitments and promises with disregard.", 
+            "They are forgetful or unconcerned with responsibilities.", 
+            "They make promises or appointments without plans to keep them.", 
+            "\"His long, spindly legs leapt up and whisked him away in a cloud of dust. I waited only a minute, before he returned with the goods I had requested, saying that he had just bought them in a town thirty miles away.\"", 
+            "The Eidolon possesses long, thin legs, not unlike those of a bird, which allow them to run at great speeds. They can run up to six hundred miles an hour, but not for any longer than one minute at a time without rest. While running at these speeds, they have very little power to stop or turn. Thus, a knowledge of terrain and good eyesight are required. They cannot carry more than half their own weight while sprinting like this.", 
+            "The Eidolon possesses incredible acrobatic ability and dexterity, in addition to their already superhuman running speed. They can dash for a sustained five minutes without rest.", 
+            "Able to dash around the entire world without stopping, the Eidolon can share their speed by holding the hand of another while dashing. The Eidolon's metabolism and energy expenditure are both incredible to match their speed, and so they must eat several large meals a day and sleep twice as long as normal."
+        ], 
+        "Name": "League Sprinter", 
+        "Personality": "Flighty"
+    }, 
+    {
+        "Data": [
+            "Virtue", 
+            "Water", 
+            "charity", 
+            "\"You need this more than I do.\"", 
+            "They go out of their way to give to others what they could rightfully keep for themselves.", 
+            "They provide for others before themselves.", 
+            "They offer assistance without being asked.", 
+            "\"Where she walked, the flowers blossomed and thrived, and life seemed to shine greener and more vibrant than I had ever seen.\"", 
+            "The soles of the Eidolon's feet are green and brown, and their skin has a loamy color and smell to it. Wherever the Eidolon walks over fertile soil, plants, flowers, and grasses spring up in their wake. By focusing this power, the Eidolon may control these plants to be any shape or size necessary, though the time they take to grow may be relative to their size and complexity.", 
+            "The Eidolon's plants can increase in complexity to have more interesting properties, such as resistance to fire, poisonous barbs, or grappling tendrils.", 
+            "A being more plant than animal, the Eidolon can grow a new body for themselves from fertile soil, and transfer their heart to it through its roots. They cannot prevent grasses and roots and even trees from blossoming in their wake. This makes traveling in cities difficult for them."
+        ], 
+        "Name": "Life in Footsteps", 
+        "Personality": "Charitable"
+    }, 
+    {
+        "Data": [
+            "Vice", 
+            "Electricity", 
+            "pessimism", 
+            "\"We can try, but this is going to go just as badly as the last plan.\"", 
+            "They assume the worst outcome in any situation.", 
+            "They plan contingencies for failure in each situation.", 
+            "They discourage and dissuade others from risk.", 
+            "\"A thick cloak of darkness seemed to surround her, greasy and sinister. From her scowl and glare, I could tell there was nothing she wanted with me, or the world at all, for that matter.\"", 
+            "The Eidolon possesses a lanternlike organ, usually centered on their heart. However, instead of emitting light, this part of their body absorbs it, creating a continual shadow. He/she can create localized darkness, or blind others by focusing this power on a concentrated area.", 
+            "Using their power to devour all light that reflects from or reaches an object, the Eidolon can turn any single thing invisible to the naked eye.", 
+            "With an even greater power over darkness, the Eidolon is able to drain electricity and other energy-based power sources as well as light, nullifying many kinds of technology. So dependent is the Eidolon on consuming light, that they are possessed by a debilitating fear of darkness."
+        ], 
+        "Name": "Light Eater", 
+        "Personality": "Pessimistic"
+    }, 
+    {
+        "Data": [
+            "Talent", 
+            "Water", 
+            "acrobatic tendencies", 
+            "\"Moving, turning, feeling the air around me. That's what it feels like to be alive.\"", 
+            "They jump, fly, or climb whenever possible.", 
+            "They prefer wide open spaces to enclosures.", 
+            "They find unorthodox ways to traverse difficult terrain.", 
+            "\"Her body twisted like a spout of water, slipping through the cracks in the sidewalk as I tried to approach. There was no hope of catching her.\"", 
+            "The Eidolon has a sea green twinge to their skin, and smells faintly of salt and brine. The Eidolon can deform and manipulate individual limbs to become any shape or size. They cannot disconnect them from the rest of their body, or deform more than a cubic foot of flesh at a time in this way.", 
+            "With an even greater control over their contortions, the Eidolon is able to deform and reform their entire body at once. He/she cannot deform his/her heart, however, which always retains its original size.", 
+            "The Eidolon's heart swims like a fish beneath their transparent skin. Any water that the Eidolon's heart is placed into immediately forms a brand new body. Additionally, they can break up their limbs into liquid that moves separately from their body. Naturally, the Eidolon suffers and shrinks whenever the humidity is low, or whenever there is a shortage of water."
+        ], 
+        "Name": "Liquid Flesh", 
+        "Personality": "Acrobatic"
+    }, 
+    {
+        "Data": [
+            "Vice", 
+            "Electricity", 
+            "entitlement", 
+            "\"I deserve it.\"", 
+            "They speak constantly of their rights, liberties, and what they are due.", 
+            "They take things that they have no claim to without thought.", 
+            "They do not display gratitude for favors or gifts.", 
+            "\"His whole body opened wide, like a great maw. Before I could think or scream, a tendril like a long, thin tongue lashed out and wrapped around me, pulling me inside...\"", 
+            "The Eidolon's entire body is able to open up like an iron maiden, able to envelop another Eidolon whole. While another Eidolon is caught inside this trap, the Living Trap may use the traits of his captive as though they were at superficial level. He/she does not develop any of the physical changes associated with those traits, however. A trapped Eidolon falls into a sort of slumber, from which they awaken only when they reemerge. A trapped Eidolon cannot be held for more than ten minutes or so in this way.", 
+            "The Eidolon may spend the captive's Anima instead of their own. If they spends all of the victim's Anima in this way, the victim is destroyed utterly.", 
+            "The Eidolon may use the victim's traits at the deep level. In addition, they can keep a victim bound for any length of time, and loses a portion of their strength when they do not have a captive."
+        ], 
+        "Name": "Living Trap", 
+        "Personality": "Entitled"
+    }, 
+    {
+        "Data": [
+            "Vice", 
+            "Fire", 
+            "bloodthirstiness", 
+            "\"Is there anything else so intoxicating as the power over life and death?\"", 
+            "They love battle for its own sake.", 
+            "They relish in the suffering of others.", 
+            "They stir others up to conflict simply in order to spectate or participate.", 
+            "\"Armor and weapons were fused to her being \u2013 a living incarnation of war and bloodshed. She walked across the battlefield like a shadow of death itself, drinking in the horrors of the war like a fine wine.\"", 
+            "The Eidolon possesses natural armor and weapons formed from nearly unbreakable metal. These weapons can be wielded with expert proficiency, but can never be disarmed or shared with others. The armor, similarly, is fused to the Eidolon's body and can never be removed.", 
+            "Whenever the Eidolon encounters a mystical weapon or gear, they can leech away that equipment's special powers or properties with a touch. Their own natural armor and weapons gain those properties instead. This effect generally lasts for the length of an encounter, though it can be made permanent if the Eidolon is able to meditate for several uninterrupted hours while holding an artifact.", 
+            "The Eidolon's armor is so strong that it prevents all superficial wounds. As for the Eidolon, they must kill at least one living thing each day, or they begin to grow weak and disempowered. If they do not kill for an entire week, their armor and weapons disintegrate, and this trait becomes inactive until they can kill again."
+        ], 
+        "Name": "Living Weapon", 
+        "Personality": "Bloodthirsty"
+    }, 
+    {
+        "Data": [
+            "Vice", 
+            "Fire", 
+            "lust", 
+            "\"I desire it, and I shall have it!\"", 
+            "They desire only the company of the beautiful or handsome.", 
+            "They strive to possess things to which they have no right.", 
+            "They desire things that are the property of others.", 
+            "\"He raised a hand, and all of our weapons suddenly whisked out of our hands and turned upon us, chasing us from the field.\"", 
+            "A dull iron ball is pitted into the palm of either hand of the Eidolon. From this ball, they can emit magnetic forces, either attractive or repulsive. The forces are imprecise, but can be used to grab distant metal objects or to deflect incoming attacks made with metal weapons.", 
+            "The Eidolon's control over their magnetic fields increases, allowing them to manipulate metal objects at a distance as precisely as they could with their own hands. This takes intense focus, however, and can only be performed on a single metal object at a time.", 
+            "Utilizing superior control over their magnetic fields, the Eidolon can control and manipulate any number of metal objects at a time. They are unable to rest or sleep alone, and quickly becomes fatigued in situations where they cannot find companionship."
+        ], 
+        "Name": "Magnetic", 
+        "Personality": "Lustful"
+    }, 
+    {
+        "Data": [
+            "Vice", 
+            "Darkness", 
+            "reliance", 
+            "\"I beg you, please, help me.\"", 
+            "They often require help from others.", 
+            "They ask others to perform tasks which they might be able to perform themselves.", 
+            "They use others to accomplish tasks that they do not want to dirty their own hands with.", 
+            "\"She rode in on a glorious palanquin carried by servants and arrayed in fabulous gold and jewels. When I bade her step down and stand beside me, she shook her head, and told me that alone, she had not the strength to stand.\"", 
+            "The Eidolon's body is divided into two parts. One comprises most of their body, usually the upper torso or the entirety of their physical form. The lower part is some sort of cart, box, or palanquin that can only be moved about by the aid of others. The Eidolon possesses the power to summon five diminutive servants from thin air or from the earth. These can be used to move about or conduct affairs.", 
+            "The Eidolon's entourage of servants increases, and he/she can now summon up to seven servants who are fully sized, and as capable as any average person. The Eidolon's box becomes a more protective shell, and houses their heart under layers of protective wards and metal.", 
+            "The Eidolon's frailty increases, to the point where they are unable to do any strenuous action of their own accord. They sleep for the vast majority of the day, waking to eat only meager meals. While in slumber, the Eidolon can continue to summon and direct their entourage of servants, who can use the same traits that the Eidolon possesses."
+        ], 
+        "Name": "Man in the Box", 
+        "Personality": "Reliant"
+    }, 
+    {
+        "Data": [
+            "Vice", 
+            "Water", 
+            "insecurity", 
+            "\"Is this right? Did I do it right?\"", 
+            "They are uncertain of their actions.", 
+            "They constantly ask others for instructions and guidance.", 
+            "They lack confidence in their own skills or abilities.", 
+            "\"His whole body was arrayed with silent, stoic faces of plaster, stone, and wood, each displaying a different emotion. When he spoke to me, they all moved in unison, and I could not fathom to which face I should look when replying.\"", 
+            "The Eidolon possesses the skill to fashion Masks from massive (level 4) Anima pearls. Unlike other Eidolons, he/she can don and remove masks without spending Anima.", 
+            "Masks do not affect this Eidolon as they do others. He/she may wear up to three masks at once, but masks never fuse to the Eidolon if he/she develops their associated traits.", 
+            "All other traits the Eidolon possesses do not manifest while this trait is All Consuming. The Eidolon can wear up to five masks at a time, but may only use traits granted by masks, and never those that are inherent to him/herself. While not wearing any masks, the Eidolon is weakened severely."
+        ], 
+        "Name": "Many Masks", 
+        "Personality": "Insecure"
+    }, 
+    {
+        "Data": [
+            "Vice", 
+            "Air", 
+            "gossiping", 
+            "\"Let me tell you what I just heard...\"", 
+            "They have difficulty keeping a secret.", 
+            "They are intensely interested in the affairs of others.", 
+            "They use political manipulation, blackmail, and personal information against enemies.", 
+            "\"She was not one being, but a swarm of tiny insects, all chittering in unison to form something like a voice. I thought I heard it arising out of many conversations, like a single picture emerging from a collage.\"", 
+            "The body of the Eidolon is made of many parts. Their flesh crawls, and their skin is merely a sack that holds together a myriad of smaller entities. One large single entity holds their heart, though it is in form and function the same as all of the others that make up the body. The Eidolon can split apart their body into its individual parts, and reassemble it back together, with their heart forging a new skin over the course of just a few moments.", 
+            "The Eidolon's heart can rapidly disgorge more creatures to replenish any lost, rapidly healing wounds to this unorthodox form", 
+            "The tiny creatures which make up the Eidolon have the power to burrow into the flesh of others and infect them, gnawing away traits or even biting at the heart of the victim. The hideous smell and sight of the Eidolon generally prevent them from being a member of polite society in any function, and those who see their true nature are often so revolted that they may choose not to speak or do business with them."
+        ], 
+        "Name": "Many, One of", 
+        "Personality": "Gossiping"
+    }, 
+    {
+        "Data": [
+            "Talent", 
+            "Water", 
+            "adaptability", 
+            "\"I can do that, easy.\"", 
+            "They are interested in learning new skills.", 
+            "They are interested in picking up new arts, crafts, and culture.", 
+            "They act pragmatically and do not question the situations they find themselves in.", 
+            "\"She followed my motions perfectly, matching each blow in strength and form. There was nothing I could do to break her defenses--for they were equal in every way to my own.\"", 
+            "The eyes of the Eidolon reflect like a mirror, and do not have pupils. They can mimic perfectly the actions of any other creature or Eidolon that they fix their eyes on, though they does not match its strength, equipment, or physical attributes (such as natural weapons or armor).", 
+            "The Eidolon implicitly mimics the strength and speed of any creature reflected in their eyes.", 
+            "Able to temporarily manifest the traits of any Eidolon reflected in their gaze, the Mimic is unable to utilize their own traits while they focus on another Eidolon in this way. In order to use their own Persona Traits in the presence of another Eidolon, they must spend Anima to suppress this trait."
+        ], 
+        "Name": "Mimic", 
+        "Personality": "Adaptable"
+    }, 
+    {
+        "Data": [
+            "Talent", 
+            "Air", 
+            "musical tendencies", 
+            "\"I sing not for the ears, but for the soul.\"", 
+            "They are interested in musical culture and theater.", 
+            "They sing, play instruments, or make music whenever possible.", 
+            "They come up with ways to use their musical or vocal talents to solve difficulties.", 
+            "\"A haunting melody emanated from his body, moving all who heard it to tears. For a moment, as we listened to the eulogy, we could almost see the scenes of grim suffering the music described to our souls.\"", 
+            "It is said that music is the language of the soul, and the Music Box is able to play melodies that inspire emotion in his audience. Any who hear their music are struck by a sudden emotion, though if they consciously attempt to suppress this implanted emotion, they will almost always succeed.", 
+            "The Eidolon no longer needs an instrument to play, as any kind of music can be emulated from their own voice or body. Many Eidolons begin to develop musical instruments within their bodies. The Eidolon's powers of emotional triggering are harder to resist. At close range, they can also unleash a sonic blast which deafens any who hear it for a few moments.", 
+            "A master of weaving melodies, the Music Box's emotional triggers are nearly impossible to resist, and they can move crowds to extreme emotions, such as revolution, indolence, or mass hysteria. The Eidolon is not immune to the deep emotions of their own music, and feel the effects of whatever emotions they instill in others with this trait."
+        ], 
+        "Name": "Music Box", 
+        "Personality": "Minstrel"
+    }, 
+    {
+        "Data": [
+            "Talent", 
+            "Fire", 
+            "opportunism", 
+            "\"The chance is here \u2013 let's take it!\"", 
+            "They seize opportunities because they are available, not because they want them.", 
+            "They are easily tempted by limited-time offers and chances.", 
+            "They take advantage of situations that offer it to them, regardless of honor or personal misgivings.", 
+            "\"He sprang and leapt through the air, dodging the debris and hazards around him as though they were mere annoyances.\"", 
+            "The Eidolon's feet look just like a second set of hands, and can perform as dextrously at any given task.", 
+            "Additional strength in his/her limbs gives the Eidolon the power to perform incredible acrobatics, such as vaulting high into the air and using movie-inspired martial arts skills.", 
+            "When fighting or acting in close combat, the Eidolon perceives everything to be almost in slow motion, and can move at incredible speeds. However, they are unable to wear heavy armor, cloaks, or capes, as these impede their range of movement, entangle them, or break quickly with the friction of their speed."
+        ], 
+        "Name": "Omnidextrous", 
+        "Personality": "Opportunist"
+    }, 
+    {
+        "Data": [
+            "Vice", 
+            "Water", 
+            "envy", 
+            "\"I'd like to have that for myself.\"", 
+            "They take things from others that they have no right to.", 
+            "They aspire to be like others, rather than choosing his/her own path.", 
+            "They conspire to acquire position, favor, or possessions that belong to others.", 
+            "\"Her skin was awash with colors and designs, and I realized that even her clothing was only painted colors against her flesh. When I looked again, she was gone, and only the wall behind her remained.\"", 
+            "Able to rapidly recolor their skin to match any surrounding, the Eidolon can camouflage perfectly while standing still. Anything they touch, they can repaint to the color or colors of their choice, giving them an advantage against enemies that camouflage or otherwise disguise themselves.", 
+            "The Eidolon can repaint themself so skillfully that they can simulate an active camouflage that works even while moving. The Eidolon can also paint the flesh and clothing of any creature they remain in constant contact with, sharing this ability with allies when the situation calls for it.", 
+            "The Eidolon's hands can unleash a spray of paint-like substance that stains and recolors anything it touches. They can cause this paint to be fluorescent, glow in the dark, or mildly acidic, as it suits them. Consumed by their envy, the Eidolon is compelled to steal any items of value which they see and can safely abscond with."
+        ], 
+        "Name": "Painted", 
+        "Personality": "Envious"
+    }, 
+    {
+        "Data": [
+            "Talent", 
+            "Darkness", 
+            "wheedling", 
+            "\"Please, sir, couldn't you spare me just a bit more?\"", 
+            "They ask others for favors they do not necessarily need.", 
+            "They excel at enlisting the aid of others for their own needs.", 
+            "They are extremely persuasive.", 
+            "\"His flesh was a horrible amalgam of stitches and straps, like a bag of parts only loosely held together by a harness of leather and thread.\"", 
+            "The Eidolon is able to graft parts of other creatures to their own body. When they place a severed limb, horn, claw, or other appendage to their skin, the flesh opens to accept the new part, and if necessary, a thread spools outward from their heart to lash it into place. The Eidolon has full control over these additional limbs or appendages, but they eventually decay and rot, according to natural laws.", 
+            "The Eidolon's body sustains any grafted limbs they possess, so that they do not rot. They can also devour tissue and muscle from deceased creatures in order to add them to their own body.", 
+            "When grafting, if the Eidolon grafts a body part with a trait attached (such as the eye of an Eidolon with Third Eye or the hand of an Eidolon with Touch of Dust) they can use those powers, though they does not develop the traits associated with them. The Eidolon can never heal from their own wounds, and must patch them up as best they can with secondhand flesh and skin. Eventually, an Eidolon with this trait becomes no longer themselves, but a collection of discarded or stolen parts patched entirely from others."
+        ], 
+        "Name": "Patchwork", 
+        "Personality": "Wheedling"
+    }, 
+    {
+        "Data": [
+            "Talent", 
+            "Electricity", 
+            "mischievous tendencies", 
+            "\"I just can't wait to see the looks on their faces...\"", 
+            "They love to play tricks on others.", 
+            "They do  things just for laughs rather than for any practical purpose.", 
+            "They put themselves and others in danger with their antics.", 
+            "\"I watched in wonder as he reached straight through the vault door, and drew out a handful of coins and stones. With a grin and a step through the wall, he was gone.\"", 
+            "The Eidolon's body can turn incorporeal in certain places, allowing them to reach through walls, pass through danger, or steal without breaking and entering. At no time can the Eidolon phase more than one cubic foot of their own flesh.", 
+            "The Eidolon's ability grows such that they can phase their entire body at once, but not for longer than a few seconds.", 
+            "Not only can the Eidolon phase their entire body, but they can teleport several steps in any given direction instantly when doing so. They may reach through ten feet of space with a single arm's length, or suddenly appear on the opposite side of the room. The Eidolon cannot use this teleportation rapidly without growing extremely fatigued. At a steady pace, though, they can phase along the road to match pace with their companions. Whenever the Eidolon phases to a place, they become anchored there. It is impossible for them to move more than two paces from that spot without phasing again."
+        ], 
+        "Name": "Phased", 
+        "Personality": "Mischievous"
+    }, 
+    {
+        "Data": [
+            "Virtue", 
+            "Stone", 
+            "industry", 
+            "\"Don't just stand there. There's work to be done here.\"", 
+            "They are always looking for opportunities to make themselves helpful to the task at hand.", 
+            "They are interested in production, manufacturing, and trade goods in the realms they visit.", 
+            "They are capable of creating impressive devices, artworks, or tools.", 
+            "\"Around him, the air seemed to grow grey and cold, as his hands blurred inhumanly at the task he set himself to. Within only a few seconds, the masterwork I had commissioned was finished and resting in my arms.\"", 
+            "A clock is planted somewhere within the flesh of this creature. While their feet remain planted firmly on the ground, the Eidolon can move their hands and upper body at an incredible speed, and the entire world seems to slow down for them.", 
+            "The Eidolon can activate the clock planted into their flesh to create a few seconds of stopped time. During this stopped time, they may move and act freely, though they cannot harm another or alter the state of any physical object until natural time resumes.", 
+            "The Eidolon can move freely while in his pocket of slow time \u2013 they no longer need to stand still to act at incredible speeds. This does not allow the Eidolon to move or run quickly \u2013 only to perform feats of extreme dexterity at an incredibly rapid rate. Surrounded by a field of faster time than others, the Eidolon's equipment rusts or breaks within hours, and any food left to their care spoils within a few minutes. Artifacts and mystic gear are resistant to these effects but still show signs of wear that might otherwise take centuries to accumulate."
+        ], 
+        "Name": "Pocket Time", 
+        "Personality": "Industrious"
+    }, 
+    {
+        "Data": [
+            "Vice", 
+            "Air", 
+            "odiousness", 
+            "\"If they don't like me, they can just deal with it.\"", 
+            "They have a complete disregard for social grace.", 
+            "They act in ways that cause others to be disgusted with or upset with them.", 
+            "They proceed with disruptive actions despite the protests of others.", 
+            "\"The stink proceeded him into the room, and I heard retching sounds all around me, though I could see nothing through the watering of my eyes.\"", 
+            "At will, the Eidolon's skin excretes an oozing black oil that smells horrible to all save themselves. No amount of perfume or washing can ever cover or cleanse this smell as long as the Eidolon continues to emit it. This smell is so horrible that it can temporarily nauseate or sicken those who inhale it.", 
+            "The black sludge that oozes from the Polluted One's skin can be excreted at an extremely fast rate, covering them and all around in filth. They can manipulate this sludge into clumsy tendrils, or hurl it at foes like a weapon.", 
+            "The toxic sludge that excretes constantly from the Eidolon cannot be suppressed or stopped (unless they choose to suppress this trait). Their corrosive filth inflicts sickness and disease on others it touches, almost immediately causing sores and lesions on the skin."
+        ], 
+        "Name": "Polluted", 
+        "Personality": "Odious"
+    }, 
+    {
+        "Data": [
+            "Personality", 
+            "Electricity", 
+            "wanderlust", 
+            "\"I have a dream \u2013 that I will see all the corners and facets of this world.\"", 
+            "They are interested in exploring the distant corners of realms and discovering new wonders.", 
+            "They become bored quickly staying in one place.", 
+            "They prefer the wilderness to cities and towns.", 
+            "\"She snapped her fingers, and a window appeared in the air, linking two wholly disparate points in space.\"", 
+            "The Eidolon has two crystals embedded into their body, usually one in each palm. These two crystals, commonly blue and yellow, are each connected to a separate portal. Touching a surface with the yellow or blue crystal causes it to become a blue or yellow portal, respectively. Stepping through the blue or yellow portal created by the Eidolon immediately transports a creature to the other portal. The Eidolon can also close these portals with a touch. They can have only one of each type open at a time, and opening a new portal automatically closes the most recent one of the same color.", 
+            "Able to open portals using only the glow from their crystals, the Eidolon can project portals onto any surface within sight for about twenty feet in any direction. They still need a touch to close a portal, however.", 
+            "A third, green crystal develops on the Eidolon's body. This crystal works just like the other two, and opens a third green portal, which is bound by the same restrictions and has the same properties of the other two. Whenever an object or creature enters a portal, the Eidolon decides which of the two other portals it emerges out of. Consumed by her nature of wanderlust, the Eidolon is unable to rest within ten miles of the place they rested the previous night. Each time they do so, one of their crystals loses its color, and becomes useless until they rest again ten miles beyond the point where they last rested."
+        ], 
+        "Name": "Portal", 
+        "Personality": "Wanderlust"
+    }, 
+    {
+        "Data": [
+            "Vice", 
+            "Light", 
+            "vanity", 
+            "\"Am I not beautiful?\"", 
+            "They take meticulous care of their appearance.", 
+            "They are interested in fashion, arts, and beauty in the realms they visit.", 
+            "They will accept only the best and most beautiful of gifts, clothing, and friends.", 
+            "\"A brilliant glow seemed to rise out of her skin, and little lights danced around her as she walked. Her beauty captivated every stare, and she reveled in the attention.\"", 
+            "Little motes of light surround the Eidolon's body, and emanate from their skin. They can use these to illuminate areas, or channel them towards an enemy's eyes to blind or distract them.", 
+            "The Radiant One is able to let out a burst of colored light that dazzles and blinds any who see it. Those at extremely close range to may become nauseated when this occurs.", 
+            "The Eidolon can control and solidify the motes of light that effuse from their skin to create temporary structures and gear, when necessary. However, they so consumed by vanity that they require praise as much as others require food. Unless they receive several compliments or praises each day, their light begins to dim, and they lose the powers associated with it."
+        ], 
+        "Name": "Radiant", 
+        "Personality": "Vain"
+    }, 
+    {
+        "Data": [
+            "Talent", 
+            "Water", 
+            "resourcefulness", 
+            "\"I can make that happen.\"", 
+            "They are able to accomplish with simpler tools and resources what would be difficult or impossible for others.", 
+            "They make do with what they have, and do not idly wish for more than they have.", 
+            "They find unorthodox uses for common tools, devices, and powers.", 
+            "\"At his command, the ground grew and formed for us a bridge. 'Quickly!' he called, for even as we watched, the sand began to drain from it.\"", 
+            "Within their immediate sphere of influence \u2013 about three feet from their body \u2013 the Eidolon can manipulate and reshape sand at will. The structures they create with this power break down quickly once they leave this sphere of influence, but while within it, they are as strong as iron.", 
+            "The Eidolon's sculptures and creations of sand remain strong for as long as a minute after he/she is through crafting them. Also, by great force of will, the Eidolon can extend their sphere of influence nearly five times to fifteen feet, to create more massive and powerful structures of sand.", 
+            "Stones the Eidolon touches will break down into sand, making them easily manipulable with this power. However, any wonder that they come into contact with, other than a cornerstone, becomes temporarily stripped of its powers, and remains a mundane item for as long as they touch or own it."
+        ], 
+        "Name": "Sandshaper", 
+        "Personality": "Resourceful"
+    }, 
+    {
+        "Data": [
+            "Drawback", 
+            "Light", 
+            "cowardice", 
+            "\"I have a bad feeling about this. You go first.\"", 
+            "They are unwilling to put themselves in any risk \u2013 be it perceived or real.", 
+            "They become frightened even at tales and conjectures, when no threat is present.", 
+            "They hesitate before performing any potentially dangerous or risky action.", 
+            "\"The light blow struck him square in the chest, and a look of horror flashed across his features. Cracks began to form across his body, and within a few moments had spread to the tips of his hair and to his toes. All at once, he collapsed into a pile of shards.\"", 
+            "When struck by a blow, the Eidolon collapses into a pile of shards unless they spend Anima to suppress this trait. If the Eidolon does collapse, then they must spend an action to reassemble, and may not perform any other action until they do this.", 
+            "The Eidolon can reassemble themself for a free action at the start of their turns, but can no longer use Anima to suppress this trait.", 
+            "The Eidolon no longer shatters, but instead explodes into a blast of deadly shards of glass, each a foot long and flying at high speed. Their entire body is restructured from their heart during the start of their turns, and they do not need to reassemble himself."
+        ], 
+        "Name": "Shatters Like Glass", 
+        "Personality": "Cowardly"
+    }, 
+    {
+        "Data": [
+            "Personality", 
+            "Water", 
+            "amicability", 
+            "\"I seek only friendship with the people of these new lands.\"", 
+            "They speak kindly to others.", 
+            "They spend significant energy gaining and maintaining friends.", 
+            "They are receptive to the needs and complaints of others.", 
+            "\"When he spoke, I was hypnotized by his words. They rang with such truth and simplicity that I felt compelled to act on them.\"", 
+            "The silver tongued Eidolon has a subtle degree of power over those that listen to him/her. They are not immediately convinced of the truth of his/her words, but suggestions that he/she makes seem like strangely good ideas to them.", 
+            "Once per encounter, the Eidolon is able to give a single command, no longer than about ten words, that another creature who understands them is compelled to obey. The compelled being must obey the command to the best of its ability, but afterwards will remember that they were being compelled. If the command is impossible or cannot be carried out within the space of one minute, then the spell breaks and the creature returns to its senses immediately.", 
+            "The Eidolon's command may require up to an hour to complete, and if the command is successfully carried out, the creature will not realize that they were compelled to act (though they may construe this if they know that someone they were in contact with recently possesses this ability). The Eidolon themself is unable to insult, degrade, or condescend any thing when they speak, and must always use a friendly tone when talking."
+        ], 
+        "Name": "Silver-Tongued", 
+        "Personality": "Amicable"
+    }, 
+    {
+        "Data": [
+            "Talent", 
+            "Light", 
+            "reputation", 
+            "\"A good name is better than wealth, and honor more valuable than victory.\"", 
+            "They will not stand to have others speak ill of them.", 
+            "They are more interested in reputation than rewards.", 
+            "They feel compelled to do what others expect of them.", 
+            "\"He stood alone on the field of battle, against all of our armies and weapons. We laughed at first when we saw the lone soldier, but blinked and suddenly saw more. There were thousands upon thousands, all exact duplicates of that one man.\"", 
+            "The Eidolon is able to create simulacra, or hollow duplicates of themself. These beings have the same strength and mass as the Eidolon's true self, but shatter into nothing when struck. The simulacra cannot speak or be reasoned with \u2013 their lips are fused together, and their eyes have an eerie, glassy look to them that belies no intelligence, only an instinct to carry out the will of their creator. The Eidolon may create up to three simulacra at a time, and must arm them as necessary for any tasks they are to carry out. Simulacra shatter and vanish if they move more than a hundred yards from their creator.", 
+            "The Eidolon can create up to fifteen simulacra at a time, and each is armed with exact duplicates of any non-artifact gear that the Eidolon possesses.", 
+            "Able to create Simulacra without limit, the Eidolon is for all effects and purposes their own personal army. Any harm done to the original person causes all of the simulacra to vanish at once."
+        ], 
+        "Name": "Simulacrum", 
+        "Personality": "Reputed"
+    }, 
+    {
+        "Data": [
+            "Drawback", 
+            "Fire", 
+            "insatiability", 
+            "\"In a mad world, only the mad are sane.\"", 
+            "Their plans and actions show a complete disregard for common sense.", 
+            "They experience unwarranted emotional swings.", 
+            "They act crazy.", 
+            "\"A perpetual look of confusion and disorientation covered her features, and she could neither speak nor walk in any reasonable manner.\"", 
+            "The Eidolon can spin themself into a human hurricane, stirring up wind as well as striking out at anything nearby. However, this power leaves them exhausted, and causes them to collapse into sleep once it is used.", 
+            "The Eidolon's speech is garbled and unintelligible at worst, and spoken in riddles and references at best. They cannot walk straight, and are perpetually dizzy.", 
+            "Able to inflict her dizzying spiral on any they hold, the Eidolon can cause enemies they grasp to spin out of control with them, becoming sickeningly dizzy and unable to move or act effectively afterwards."
+        ], 
+        "Name": "Spiral", 
+        "Personality": "Unstable"
+    }, 
+    {
+        "Data": [
+            "Virtue", 
+            "Fire", 
+            "confidence", 
+            "\"I have resolved my self to abstinence from all doubt, distraction, and despair.\"", 
+            "They speak in absolutes and definitives.", 
+            "They do not doubt the abilities of themselves or others.", 
+            "They encourage others to press the limits of their capabilities.", 
+            "\"He stood on a single toe, poised over the smooth surface of the lake. I thought he must be standing upon a stone, until he walked forwards to meet me.\"", 
+            "The Eidolon always lands expertly on their delicately pointed feet, and never suffers ill effects from falling. They can land perfectly on the tips of needles without harm, or walk across a bed of nails without thought. They never lose balance, and cannot be knocked down.", 
+            "The Eidolon's footing is so sure that they can walk easily across the surface of water or upon clouds, regardless of weight or load. They never make noise while moving, unless they wish to.", 
+            "So delicate are the steps of the Eidolon that they can walk across thin air without fear of falling. They become so consumed by their drive to succeed that they are unable to give up at a task they have begun, even if its completion becomes irrelevant."
+        ], 
+        "Name": "Sure of Foot", 
+        "Personality": "Confident"
+    }, 
+    {
+        "Data": [
+            "Virtue", 
+            "Darkness", 
+            "curiosity", 
+            "\"It's natural to wonder, but I make it my business to find out.\"", 
+            "They press others for information they seem unwilling to give.", 
+            "They see secrets as a challenge to unearth, rather than something to be left alone.", 
+            "They are interested in the mysteries of Empyrean, its past, and its lost powers.", 
+            "\"An eye opened in his hand, scanning over me, and I got the horrible feeling of being dissected and evaluated from the inside out.\"", 
+            "The Eidolon can open a third eye which detects the traits of other Eidolons nearby. This sense can find the presence of other Eidolons even through walls or floors, as far as the Eidolon could theoretically see if there were no obstructions.", 
+            "The Third Eye can detect Anima and Aether in any form, allowing it to sense wonders and cornerstones as well as Eidolons.", 
+            "he Eidolon's Third Eye is always open, and can see directly through to the hearts of others. This precise understanding of the enemy's weakness gives the Eidolon deadly proficiency in battle. However, the Eidolon's curious nature easily overwhelms them, and they can be distracted with little difficulty."
+        ], 
+        "Name": "Third Eye", 
+        "Personality": "Curious"
+    }, 
+    {
+        "Data": [
+            "Drawback", 
+            "Air", 
+            "regret", 
+            "\"I am the victim of this chain of consequence, and there is no breaking it.\"", 
+            "They speak and think constantly of the past.", 
+            "They blame themselves for mistakes and failures of the group.", 
+            "They talk constantly of ''what-if's' and what used to be.", 
+            "\"A ragged scar ran down his face, marring his features horribly. Only the stitching held him together, and as he spoke his lips worked against each other oddly, split in half as they were.\"", 
+            "Rent into two halves by their own past, the Eidolon is prone to falling apart at the wrong moment.", 
+            "The Eidolon's wound runs deeper than ever, and they are unable to heal during encounters. They must find other ways to hold themselves together than relying on their natural regeneration.", 
+            "Channeling their discontent and regret into a contempt for the entire world, the Eidolon is able to inflict grave wounds upon others with any weapon, as they are always considered to have a personal desire to harm another. The wounds they cause to others cannot be healed via an Eidolon's natural regeneration. The Eidolon's heart itself is cracked and broken with rage. Should this trait develop further, it risks utterly destroying them from the inside out."
+        ], 
+        "Name": "Torn Apart", 
+        "Personality": "Regretful"
+    }, 
+    {
+        "Data": [
+            "Vice", 
+            "Stone", 
+            "cruelty", 
+            "\"Your suffering is most unfortunate \u2013 but not for me.\"", 
+            "They seek to inflict pain on others.", 
+            "They relish in the pain of others and the destruction of their works.", 
+            "They enjoy wielding power over others to their detriment.", 
+            "\"I froze in horror as she advanced upon me, cruel malice gleaming in her eyes. My friend stepped forward to block her way, but she only smiled wider and touched his forehead with a finger. Before my eyes, his body fell in upon itself in a heap of dust.\"", 
+            "The Eidolon possesses a withered, gnarled limb or finger that radiates malevolent power. Any organic substance they touch with this limb turns to dust within a few seconds. Living creatures may lose only a small part of their bodies, but the effect increases the longer contact is maintained.", 
+            "With increased destructive power, a touch from the Eidolon can turn even inorganic substances like stone into a fine powder.", 
+            "The Eidolon can wield their fearsome power through their entire body. Anything that comes into contact with the Eidolon's skin can be turned to dust by an act of will. Because of this, however, they must avoid the contact of those they do not wish to harm."
+        ], 
+        "Name": "Touch of Dust", 
+        "Personality": "Cruel"
+    }, 
+    {
+        "Data": [
+            "Personality", 
+            "Air", 
+            "boisterousness", 
+            "\"I've got quite a tale to tell you of my adventures...\"", 
+            "They need to constantly be the center of attention.", 
+            "They talk far more than they listen.", 
+            "They feel compelled to add their input and opinions to any conversation.", 
+            "\"He stood vast and tall above us, looking down and across the field. 'Who will challenge me?' he bellowed. Though we waited and waited none stepped forward to meet him in battle.\"", 
+            "The Eidolon grows to a great size, being half again as large as any ordinary person. This increased size comes with additional strength, mass, and weight as well.", 
+            "Growing in boastfulness and strength, the Eidolon is twice as large as any ordinary person, and has all the mass, strength, and weight that come with this increased size.", 
+            "Three times as large as any ordinary person, the Eidolon is a mountain among his peers. However, they must accept any challenge that is issued to them, and make good on any boast they proclaim."
+        ], 
+        "Name": "Towering", 
+        "Personality": "Boisterous"
+    }, 
+    {
+        "Data": [
+            "Personality", 
+            "Water", 
+            "transience", 
+            "\"I won't be here for long anyway.\"", 
+            "They act as though they are unimportant or a minor character in their own journey.", 
+            "They take a secondary role in the action.", 
+            "They freeze up, or act slowly when under pressure.", 
+            "\"As I ran at her, readying my blade to attack, she merely smiled. Then, in an instant, she was gone and my blade swung through empty air.\"", 
+            "The Eidolon can disappear for short periods of time, a minute at most. During this time, the Eidolon can sense everything they would be able to had they remained where they were, but cannot interact with it in any way. When the Eidolon returns, they will return exactly where they were when they disappeared unless this is impossible (if the location is blocked in any way - for example, by a cave-in). In that case, they will instead return as close as possible to their original position.Re-appearing is a very flashy, obvious action that will be easily noticed by anyone paying attention.", 
+            "Still unable to disappear for longer than a minute, the Eidolon can now \"move\" and \"look around\" when gone - although they cannot walk through solid objects or fly unless another trait grants this ability. Instead of reappearing wherever they disappeared, they now reappear wherever they \"moved\" to when gone.The Eidolon is still unable to interact anything whilst gone.", 
+            "The Eidolon may now choose to disappear indefinitely, instead of having to return within a minute. However, they must spend an anima in order to be visible to others, and even then they are difficult to notice to those that are not trying."
+        ], 
+        "Name": "Transient", 
+        "Personality": "Secondary"
+    }, 
+    {
+        "Data": [
+            "Talent", 
+            "Stone", 
+            "secretive tendencies", 
+            "\"That's not any of your business.\"", 
+            "They keep to themselves and do not speak openly of their thoughts or feelings.", 
+            "They have some past history which they do not wish to share with the group.", 
+            "They seem reserved or abrasive when asked about themselves or their opinions.", 
+            "\"He crossed his chest with a finger and to my amazement it opened as though on a hinge. Within his body were hidden all manner of treasures and wonders. When he heard my gasp and realized he was being watched, he quickly shut this compartment away and turned in a rage.\"", 
+            "A hidden compartment within the Eidolon's body can contain any amount of hidden treasures and wonders. Anything placed into the compartment takes up less space than it would normally. An Eidolon can easily carry up to five times their own body weight and bulk in this compartment. They cannot store living things or artifacts within themselves. If the Eidolon dies or loses this ability, everything stored within their body is disgorged in a torrent of debris.", 
+            "The Eidolon's secret compartment can contain an unlimited number of items, so long as no single item is larger than their own body. They may store artifacts within their body, but not living things.", 
+            "The Eidolon may store even living things within their body. Anything stored within their secret compartment goes to sleep until removed, and does not age. The Eidolon has been collecting and hoarding things for so long, that it can be assumed that they have collected any mundane item, and can therefore produce it from themselves at a moment's notice. Bound by their introversion, only the Eidolon can use the things they have collected, and they are unable to share these items with any other."
+        ], 
+        "Name": "Treasure Box", 
+        "Personality": "Secretive"
+    }, 
+    {
+        "Data": [
+            "Virtue", 
+            "Electricity", 
+            "empathy", 
+            "\"Trust me, I know exactly how you feel.\"", 
+            "They are concerned with the emotions and distresses of others.", 
+            "They sympathize with the plights of people they meet and civilizations they visit.", 
+            "They are capable of seeing things from opposing viewpoints.", 
+            "\"The two of them spoke in perfect unison, complimenting one another's appearance and attitude with a perfect balance of symmetry.\"", 
+            "The Eidolon possesses a twin form that shares his or her body. By spending Anima, these two parts may split into two separate beings, both sharing the same consciousness, but possibly with different personality aspects or attitudes. Each half possesses only half the strength of the original, complete Eidolon.", 
+            "The Eidolon's twin forms can split apart and reform at will. In addition, each half is as strong as the whole.", 
+            "The Eidolon can split off additional clones of him/herself, each with the same strength and attributes as their whole being. Any wound or distress suffered by one of these clones is reflected by all of them, however, and the pain each clone feels is multiplied by the number of them that exist."
+        ], 
+        "Name": "Twin", 
+        "Personality": "Empathetic"
+    }, 
+    {
+        "Data": [
+            "Virtue", 
+            "Water", 
+            "purity", 
+            "\"To know what you are not is to define yourself.\"", 
+            "They cling tightly to a moral or ethical code.", 
+            "They resist outside influences, including those from substances or situations.", 
+            "They set themselves apart from others.", 
+            "\"A single, pearly horn protruded from the front of her forehead, shimmering with radiance. I felt a calm strength and purity around her, as though in all the trouble and care in the world, nothing could touch her.\"", 
+            "The Eidolon possesses a single, indestructible horn. This horn is surrounded by a powerful aura of purity. Anything it touches becomes purified \u2013 diseases may be cured, water may be cleansed, metal may be refined \u2013 even Aether seems to shrink back from its proximity.", 
+            "The Eidolon can channel the power of their horn to purify things with a touch. Additionally, they are completely immune to poison, disease, and corrosion. The horn is a deadly weapon, and always causes a deep wound when it strikes enemies.", 
+            "The Eidolon is immune to any impure or tainted hazards. Anything that is not ritually cleansed or concentrated in nature simply washes off of their skin without effect or direct contact. However, they may eat and drink only specially prepared bread and purified water, and no person can touch them."
+        ], 
+        "Name": "Unihorned", 
+        "Personality": "Pure"
+    }, 
+    {
+        "Data": [
+            "Personality", 
+            "Stone", 
+            "obedience", 
+            "\"I just do what the boss says. If you don't like it, talk to him.\"", 
+            "They go against their personal wishes for the wishes of a master or authority.", 
+            "They commit actions against their morality according to the wishes of a master or authority.", 
+            "They do not consider or question the motives behind the orders they receive.", 
+            "\"His skin gleamed like metal and his face was stoic and empty. I asked him to aid me, and he merely nodded without a word. Before my eyes, there was no more man--only the most deadly blade I had ever seen.\"", 
+            "The Eidolon can transform themselves into a deadly handheld weapon that can be wielded by another. While wielding the Eidolon in weapon form, the wielder can add all of that Eidolon's strengths, skills, and trait powers to their own. The weapon is usually capable of anti-personnel damage.", 
+            "The Eidolon can become a more powerful weapon or vehicle capable of causing damage on a vehicular or building scale. This form allows for more control over their own actions, but as the Eidolon's obedience deepens they are less and less likely to exercise that control for reasons other than to perform their masters' orders.", 
+            "Becoming a vehicle or weapon as powerful as a tank or bomber, the Eidolon can cause damage on a grand scale. Because of the size and complexity of this form, the Eidolon is more in control of their own actions than in any other form, and may not even need the assistance of a pilot. However, consumed by obedience to their masters, the Eidolon is sure to carry out their orders with ruthless and cunning efficiency. A weapon of this scale is capable of destroying whole cities."
+        ], 
+        "Name": "Weapon for the Strong, A", 
+        "Personality": "Obedient"
+    }, 
+    {
+        "Data": [
+            "Personality", 
+            "Light", 
+            "broodingness", 
+            "\"I've been waiting a long, long time for this opportunity.\"", 
+            "They plan elaborate ways to exact vengeance on others.", 
+            "They design elaborate schemes and machinations to acquire what they want.", 
+            "They will not be rushed to act without time to prepare and think through their actions.", 
+            "\"Her spindly arms moved in a distracted motion as she talked, pacing around me. When our conversation had ended, I turned to leave, only to realize I was trapped in an invisible net of stinging threads.\"", 
+            "The Eidolon can draw a near-indestructible thread of silk from the palms of their hands, and attach it to any solid surface with a touch. Their arms become longer and slimmer, adept at weaving and shaping the silk they create.", 
+            "The Eidolon can coat the threads of their silk with stinging, sticky, or flammable mucus. They can also attach webs by throwing them or 'shooting' them from their palms.", 
+            "As the Eidolon's arms become lighter, quicker, and capable of more fine movements, they grow useless for tasks other than weaving webs. The Eidolon's skill is such that they can weave complex objects like nets, clothes, and even full barricades within a few seconds."
+        ], 
+        "Name": "Webweaver", 
+        "Personality": "Brooding"
+    }, 
+    {
+        "Data": [
+            "Virtue", 
+            "Darkness", 
+            "humility", 
+            "\"Surely I am the least deserving of such honors.\"", 
+            "They cannot stand for others to praise or congratulate them.", 
+            "They give credit to others when they could take it for themselves.", 
+            "They do not think of themselves as higher or better than others.", 
+            "\"He offered me a hand, as water seemed to seep from his sleeves and from between his fingers, running down his arms as though his heart was an endless fountain.\"", 
+            "Water flows constantly from the Eidolon's heart, seeping off of their body at a rate of about a gallon per minute. The Eidolon can reduce or stop this flow as they wish. With concentration, they can control any water that links with the flow springing from their heart. They cannot manipulate more water than their body's volume.", 
+            "The Eidolon's eyes, ears, and mouth run with water, though they can breathe perfectly both water and air. The Eidolon can manipulate up to five times their body's volume in water.", 
+            "Able to unleash a flood of water at will, the Eidolon's wounds spray water with relentless pressure. They can no longer cut off the flow from their heart at will, but can control up to twenty times their body's volume in water."
+        ], 
+        "Name": "Wellspring", 
+        "Personality": "Humble"
+    }, 
+    {
+        "Data": [
+            "Personality", 
+            "Air", 
+            "caprice", 
+            "\"Why? Well, I just felt like it. What more reason do you need?\"", 
+            "They change their mind freely and easily.", 
+            "They have difficulty focusing on any one thing or idea for too long.", 
+            "They are easily convinced or swayed in their opinions.", 
+            "\"The breeze began to pick up, then lifted her into the air by the billow of her robe. As I watched in wonder, she sailed off into the night on the summer breeze, never to be seen again.\"", 
+            "Surrounded by their own personal wind current, the Eidolon is able to control and redirect winds. They can unleash a burst of wind to throw themselves high into the air, to knock down an unsuspecting foe, or accomplish anything else that sudden gusts of wind are good for.", 
+            "The winds that surround the Eidolon are reigned by a more precise level of control. Using a cape or sail, they can fly through the air with limited proficiency.", 
+            "The Eidolon's wind currents are extremely powerful and precise. They can lift and manipulate objects with ease, as though they had invisible hands, and can fly with only a billowing robe rather than a cape or sail. However, terrible storms gather anywhere that this Eidolon remains for more than a day."
+        ], 
+        "Name": "Windborne", 
+        "Personality": "Capricious"
+    }, 
+    {
+        "Data": [
+            "Talent", 
+            "Light", 
+            "academic tendencies", 
+            "\"Knowing justifies itself.\"", 
+            "They are more interested in history and culture than in treasure or glory.", 
+            "They spend significant time researching and reading.", 
+            "They always have the answer to questions on history, culture, or technology.", 
+            "\"The words seemed to swirl about beneath her skin, revealing and obscuring and revealing again. Her knowledge, I knew, was a treasure which she guarded jealously.\"", 
+            "A skittering ink slithers beneath and upon the skin of the Eidolon, forming and unforming words. With milky white eyes, they can read any language and inherently understands the meaning behind forgotten and iconographic languages.", 
+            "The Eidolon's body is a living work of literature, filled with words. They bleed ink and knowledge, and can eat books in order to recover from wounds.", 
+            "Able to transform their body into a living construct of ink and knowledge, the Eidolon can take any shape and comprehend any riddle. However, their body is made of different stuff than most, and they are only able to heal from wounds by consuming books or knowledge."
+        ], 
+        "Name": "Words Within", 
+        "Personality": "Academic"
+    }
+]
