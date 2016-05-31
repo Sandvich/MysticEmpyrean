@@ -30,8 +30,8 @@ def setTrait(selectedTraitIndex):
 	SelectedTraits["DisplayName"].set("An eidolon displays " + traits[selectedTraitIndex]["DisplayName"] + " if:")
 	currentImages['Type'] = ImageTk.PhotoImage(Image.open(os.path.join('assets', SelectedTraits['Type'].get().encode('utf-8')+'.png')))
 	currentImages['Element'] = ImageTk.PhotoImage(Image.open(os.path.join('assets', SelectedTraits['Element'].get().encode('utf-8')+'.png')))
-	elements['Type'] = ttk.Label(summaryFrame, image=currentImages['Type'])
-	elements['Element'] = ttk.Label(summaryFrame, image=currentImages['Element'])
+	elements['Type'].configure(image=currentImages['Type'])
+	elements['Element'].configure(image=currentImages['Element'])
 
 def chooseTrait(*args):
 	setTrait(traitNames[selectedTraitName.get()])
