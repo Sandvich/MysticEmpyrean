@@ -5,7 +5,7 @@ from PIL import ImageTk, Image
 import ttk, json, os
 
 # Called once to load in the JSON.	
-SelectedTraits, elements = {}, {}
+elements = {}
 with open('traits_list.json') as f:
 	firsttraits = json.loads(f.read())
 	traits = []
@@ -24,43 +24,46 @@ summaryFrame.grid(column=0, row=1, sticky=(N,S,E,W))
 
 # Functions to change the information displayed in the UI depending on what trait or personality has been selected.
 def setTrait(selectedTraitIndex):
-	for key in ('Name', 'Personality', 'DisplayName', 'ShortQuote', 'Quality1',\
-		'Quality2', 'Quality3', 'LongQuote', 'Superficial', 'Deep', 'AllConsuming'):
+	for key in ('Name', 'Element', 'Type', 'Personality', 'DisplayName', 'ShortQuote',\
+		'Quality1', 'Quality2', 'Quality3', 'LongQuote', 'Superficial', 'Deep', 'AllConsuming'):
 		SelectedTraits[key].set(traits[selectedTraitIndex][key])
 	SelectedTraits["DisplayName"].set("An eidolon displays " + traits[selectedTraitIndex]["DisplayName"] + " if:")
-	currentImages['Type'] = ImageTk.PhotoImage(Image.open(os.path.join('assets', traits[selectedTraitIndex]['Type'].encode('utf-8')+'.png')))
-	currentImages['Element'] = ImageTk.PhotoImage(Image.open(os.path.join('assets', traits[selectedTraitIndex]['Element'].encode('utf-8')+'.png')))
+	currentImages['Type'] = ImageTk.PhotoImage(Image.open(os.path.join('assets', SelectedTraits['Type'].get().encode('utf-8')+'.png')))
+	currentImages['Element'] = ImageTk.PhotoImage(Image.open(os.path.join('assets', SelectedTraits['Element'].get().encode('utf-8')+'.png')))
+	elements['Type'] = ttk.Label(summaryFrame, image=currentImages['Type'])
+	elements['Element'] = ttk.Label(summaryFrame, image=currentImages['Element'])
 
 def chooseTrait(*args):
-	selectedTraitIndex = traitNames.index(selectedTraitName.get())
-	setTrait(selectedTraitIndex)
+	setTrait(traitNames[selectedTraitName.get()])
 def choosePersonality(*args):
-	selectedTraitIndex = personalities.index(selectedPersonalityName.get())
-	setTrait(selectedTraitIndex)
+	setTrait(personalities[selectedPersonalityName.get()])
 
 # Sets defaults for the dropdown lists at the top, and the images.
-traitNames, personalities = [], []
-for x in traits:
-	traitNames.append(x["Name"])
-	personalities.append(x["Personality"])
+traitNames, personalities= {}, {}
+for index, traitobj in enumerate(traits):
+	traitNames[traitobj["Name"]] = index
+	personalities[traitobj["Personality"]] = index
 selectedTraitName, selectedPersonalityName = StringVar(), StringVar()
-selectedTraitName.set("Achilles' Heel")
+selectedTraitName.set("Words Within")
 selectedPersonalityName.set("Boastful")
 # currentImages = {'Type':ImageTk.PhotoImage(Image.open('Personality.png')), 'Element':ImageTk.PhotoImage(Image.open('Air.png'))}
-currentImages = {'Type':None, 'Element':None}
+currentImages, SelectedTraits = {'Type':None, 'Element':None}, {}
 
 # Creates variables that are aware of what is active, and sets defaults for them
 for key in traits[0].keys():
 	SelectedTraits[key] = StringVar()
 	if key in ('Type', 'Element'):
+		print key + ": setting image."
 		elements[key] = ttk.Label(summaryFrame, image=currentImages[key])
 	elif key in ('Superficial', 'Deep', 'AllConsuming', 'LongQuote'):
+		print key + ": setting messagebox."
 		elements[key] = Message(summaryFrame, textvariable=SelectedTraits[key], width=700)
 	else:
+		print key + ": setting text label."
 		elements[key] = ttk.Label(summaryFrame, textvariable=SelectedTraits[key])
 chooseTrait()
-for item in SelectedTraits:
-	print item + "\t" + str(SelectedTraits[item].get().encode('utf-8'))
+print str(SelectedTraits['Type'].get())
+print str(SelectedTraits['Element'].get())
 
 # Creates the dropdown lists and buttons at the top, and grids them
 apply(OptionMenu, (mainFrame, selectedTraitName) + tuple(traitNames)).grid(column=0, row=0, sticky=(N,S))
@@ -71,7 +74,7 @@ ttk.Button(mainFrame, text="Choose Personality", command=choosePersonality).grid
 # Grids everything else
 elements['Name'].grid(column=0, row=0, columnspan=3, sticky=(N,S,E,W))
 elements['Personality'].grid(column=0, row=1, columnspan=3, sticky=(N,S,E,W))
-elements['Type'].grid(column=0, row=2, columnspan=2)
+elements['Type'].grid(column=0, row=2, columnspan=2, sticky=W)
 elements['Element'].grid(column=2, row=2)
 elements['ShortQuote'].grid(column=0, row=3, columnspan=3, sticky=W)
 elements['DisplayName'].grid(column=0, row=4, columnspan=3, sticky=W)
