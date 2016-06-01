@@ -28,8 +28,8 @@ def setTrait(selectedTraitIndex):
 		'Quality1', 'Quality2', 'Quality3', 'LongQuote', 'Superficial', 'Deep', 'AllConsuming'):
 		SelectedTraits[key].set(traits[selectedTraitIndex][key])
 	SelectedTraits["DisplayName"].set("An eidolon displays " + traits[selectedTraitIndex]["DisplayName"] + " if:")
-	currentImages['Type'] = ImageTk.PhotoImage(Image.open(os.path.join('assets', SelectedTraits['Type'].get().encode('utf-8')+'.png')))
-	currentImages['Element'] = ImageTk.PhotoImage(Image.open(os.path.join('assets', SelectedTraits['Element'].get().encode('utf-8')+'.png')))
+	currentImages['Type'] = ImageTk.PhotoImage(Image.open(os.path.join('assets', SelectedTraits['Type'].get().encode('utf-8')+'-tag.png')))
+	currentImages['Element'] = ImageTk.PhotoImage(Image.open(os.path.join('assets', SelectedTraits['Element'].get().encode('utf-8')+'-tag.png')))
 	elements['Type'].configure(image=currentImages['Type'])
 	elements['Element'].configure(image=currentImages['Element'])
 
@@ -43,6 +43,7 @@ traitNames, personalities= {}, {}
 for index, traitobj in enumerate(traits):
 	traitNames[traitobj["Name"]] = index
 	personalities[traitobj["Personality"]] = index
+traitNamesList, personalitiesList = sorted(traitNames.keys()), sorted(personalities.keys())
 selectedTraitName, selectedPersonalityName = StringVar(), StringVar()
 selectedTraitName.set("Words Within")
 selectedPersonalityName.set("Boastful")
@@ -66,8 +67,8 @@ print str(SelectedTraits['Type'].get())
 print str(SelectedTraits['Element'].get())
 
 # Creates the dropdown lists and buttons at the top, and grids them
-apply(OptionMenu, (mainFrame, selectedTraitName) + tuple(traitNames)).grid(column=0, row=0, sticky=(N,S))
-apply(OptionMenu, (mainFrame, selectedPersonalityName) + tuple(personalities)).grid(column=1, row=0, sticky=(N,S))
+apply(OptionMenu, (mainFrame, selectedTraitName) + tuple(traitNamesList)).grid(column=0, row=0, sticky=(N,S))
+apply(OptionMenu, (mainFrame, selectedPersonalityName) + tuple(personalitiesList)).grid(column=1, row=0, sticky=(N,S))
 ttk.Button(mainFrame, text="Choose Trait", command=chooseTrait).grid(column=0, row=1)
 ttk.Button(mainFrame, text="Choose Personality", command=choosePersonality).grid(column=1, row=1)
 
