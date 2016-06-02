@@ -18,10 +18,15 @@ with open('traits_list.json') as f:
 
 # Starts up the core tkinter stuff
 root = Tk()
-mainFrame = ttk.Frame(root, padding="5")
+root.title("Mystic Empyrean Traits")
+s = ttk.Style()
+s.configure('white.TFrame', background='#FFFFFF')
+mainFrame = ttk.Frame(root, padding="5", style='white.TFrame')
 mainFrame.grid(column=0, row=0, sticky=(N,S,E,W))
-summaryFrame = ttk.Frame(root, padding="5")
+mainFrame.config()
+summaryFrame = ttk.Frame(root, padding="5", style='white.TFrame')
 summaryFrame.grid(column=0, row=1, sticky=(N,S,E,W))
+summaryFrame.config()
 
 # Functions to change the information displayed in the UI depending on what trait or personality has been selected.
 def setTrait(selectedTraitIndex):
@@ -64,8 +69,6 @@ for key in traits[0].keys():
 	else:
 		elements[key] = ttk.Label(summaryFrame, textvariable=SelectedTraits[key])
 chooseTrait()
-print(str(SelectedTraits['Type'].get()))
-print(str(SelectedTraits['Element'].get()))
 
 # Creates the dropdown lists and buttons at the top, and grids them
 OptionMenu(mainFrame, selectedTraitName, *traitNamesList, command=chooseTrait).grid(column=0, row=0, sticky=(N,S))
