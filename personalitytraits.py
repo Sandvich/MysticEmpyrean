@@ -4,6 +4,9 @@ from Tkinter import *
 from PIL import ImageTk, Image
 import ttk, json, os
 
+im = Image.open(os.path.join('assets', 'Light-tag.png'))
+print im.mode
+
 # Called once to load in the JSON.	
 elements = {}
 with open('traits_list.json') as f:
@@ -29,7 +32,7 @@ def setTrait(selectedTraitIndex):
 		SelectedTraits[key].set(traits[selectedTraitIndex][key])
 	SelectedTraits["DisplayName"].set("An eidolon displays " + traits[selectedTraitIndex]["DisplayName"] + " if:")
 	currentImages['Type'] = ImageTk.PhotoImage(Image.open(os.path.join('assets', SelectedTraits['Type'].get().encode('utf-8')+'-tag.png')))
-	currentImages['Element'] = ImageTk.PhotoImage(Image.open(os.path.join('assets', SelectedTraits['Element'].get().encode('utf-8')+'-tag.png')))
+	currentImages['Element'] = ImageTk.PhotoImage(Image.open(os.path.join('assets', SelectedTraits['Element'].get().encode('utf-8')+'-tag.png')).convert("RGB"))
 	elements['Type'].configure(image=currentImages['Type'])
 	elements['Element'].configure(image=currentImages['Element'])
 
