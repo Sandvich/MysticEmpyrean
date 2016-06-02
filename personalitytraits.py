@@ -1,11 +1,9 @@
-#!/usr/bin/python
+#!/usr/local/bin/python3
 # -*- coding: utf-8 -*-
-from Tkinter import *
+from tkinter import *
+from tkinter import ttk
 from PIL import ImageTk, Image
-import ttk, json, os
-
-im = Image.open(os.path.join('assets', 'Light-tag.png'))
-print im.mode
+import json, os
 
 # Called once to load in the JSON.	
 elements = {}
@@ -31,15 +29,18 @@ def setTrait(selectedTraitIndex):
 		'Quality1', 'Quality2', 'Quality3', 'LongQuote', 'Superficial', 'Deep', 'AllConsuming'):
 		SelectedTraits[key].set(traits[selectedTraitIndex][key])
 	SelectedTraits["DisplayName"].set("An eidolon displays " + traits[selectedTraitIndex]["DisplayName"] + " if:")
-	currentImages['Type'] = ImageTk.PhotoImage(Image.open(os.path.join('assets', SelectedTraits['Type'].get().encode('utf-8')+'-tag.png')))
-	currentImages['Element'] = ImageTk.PhotoImage(Image.open(os.path.join('assets', SelectedTraits['Element'].get().encode('utf-8')+'-tag.png')).convert("RGB"))
+	currentImages['Type'] = ImageTk.PhotoImage(Image.open(os.path.join('assets', SelectedTraits['Type'].get()+'-tag.png')))
+	currentImages['Element'] = ImageTk.PhotoImage(Image.open(os.path.join('assets', SelectedTraits['Element'].get()+'-tag.png')).convert("RGB"))
 	elements['Type'].configure(image=currentImages['Type'])
 	elements['Element'].configure(image=currentImages['Element'])
+	return (SelectedTraits['Name'].get(), SelectedTraits['Personality'].get())
 
 def chooseTrait(*args):
-	setTrait(traitNames[selectedTraitName.get()])
+	personality = setTrait(traitNames[selectedTraitName.get()])[1]
+	selectedPersonalityName.set(personality)
 def choosePersonality(*args):
-	setTrait(personalities[selectedPersonalityName.get()])
+	trait = setTrait(personalities[selectedPersonalityName.get()])[0]
+	selectedTraitName.set(trait)
 
 # Sets defaults for the dropdown lists at the top, and the images.
 traitNames, personalities= {}, {}
@@ -57,23 +58,18 @@ currentImages, SelectedTraits = {'Type':None, 'Element':None}, {}
 for key in traits[0].keys():
 	SelectedTraits[key] = StringVar()
 	if key in ('Type', 'Element'):
-		print key + ": setting image."
 		elements[key] = ttk.Label(summaryFrame, image=currentImages[key])
 	elif key in ('Superficial', 'Deep', 'AllConsuming', 'LongQuote'):
-		print key + ": setting messagebox."
-		elements[key] = Message(summaryFrame, textvariable=SelectedTraits[key], width=700)
+		elements[key] = Message(summaryFrame, textvariable=SelectedTraits[key], width=710)
 	else:
-		print key + ": setting text label."
 		elements[key] = ttk.Label(summaryFrame, textvariable=SelectedTraits[key])
 chooseTrait()
-print str(SelectedTraits['Type'].get())
-print str(SelectedTraits['Element'].get())
+print(str(SelectedTraits['Type'].get()))
+print(str(SelectedTraits['Element'].get()))
 
 # Creates the dropdown lists and buttons at the top, and grids them
-apply(OptionMenu, (mainFrame, selectedTraitName) + tuple(traitNamesList)).grid(column=0, row=0, sticky=(N,S))
-apply(OptionMenu, (mainFrame, selectedPersonalityName) + tuple(personalitiesList)).grid(column=1, row=0, sticky=(N,S))
-ttk.Button(mainFrame, text="Choose Trait", command=chooseTrait).grid(column=0, row=1)
-ttk.Button(mainFrame, text="Choose Personality", command=choosePersonality).grid(column=1, row=1)
+OptionMenu(mainFrame, selectedTraitName, *traitNamesList, command=chooseTrait).grid(column=0, row=0, sticky=(N,S))
+OptionMenu(mainFrame, selectedPersonalityName, *personalitiesList, command=choosePersonality).grid(column=1, row=0, sticky=(N,S))
 
 # Grids everything else
 elements['Name'].grid(column=0, row=0, columnspan=3, sticky=(N,S,E,W))
