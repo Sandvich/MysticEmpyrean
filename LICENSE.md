@@ -1,5 +1,5 @@
 Assets and traits copyright 2010 D. Brad Talton Jr.
-<http://www.mysticempyrean.com>
+[http://www.mysticempyrean.com](http://www.mysticempyrean.com)<br>
 Code copyright 2016 Sanchit Sharma
 
 Licensed under the Apache License, Version 2.0 (the "License");

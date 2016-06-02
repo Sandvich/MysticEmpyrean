@@ -1356,7 +1356,7 @@
             "The Eidolon's footing is so sure that they can walk easily across the surface of water or upon clouds, regardless of weight or load. They never make noise while moving, unless they wish to.", 
             "So delicate are the steps of the Eidolon that they can walk across thin air without fear of falling. They become so consumed by their drive to succeed that they are unable to give up at a task they have begun, even if its completion becomes irrelevant."
         ], 
-        "Name": "Sure of Foot", 
+            "Name": "Sure of Foot", 
         "Personality": "Confident"
     }, 
     {
