@@ -28,7 +28,8 @@ summaryFrame = ttk.Frame(root, padding="5", style='white.TFrame')
 summaryFrame.grid(column=0, row=1, sticky=(N,S,E,W))
 summaryFrame.config()
 detailFrame = ttk.Frame(root, padding="5", style='white.TFrame')
-#detailFrame.grid(column=0, row=3, sticky=(N,S,E,W))
+detailFrame.grid(column=0, row=3, sticky=(N,S,E,W))
+detailFrame.grid_remove()
 detailFrame.config()
 
 # Functions to change the information displayed in the UI depending on what trait or personality has been selected.
@@ -52,7 +53,7 @@ def choosePersonality(*args):
 
 # Functions to open and close the detail view
 def openDetails(*args):
-	detailFrame.grid(column=0, row=2, sticky=(N,S,E,W))
+	detailFrame.grid()
 	elements['OpenDetail'].grid_remove()
 def closeDetails(*args):
 	detailFrame.grid_remove()
@@ -109,6 +110,6 @@ elements['OpenDetail'].grid(column=0, row=2, sticky=W)
 elements['Superficial'].grid(column=0, row=0, sticky=W)
 elements['Deep'].grid(column=0, row=1, sticky=W)
 elements['AllConsuming'].grid(column=0, row=2, sticky=W)
-elements['CloseDetail'].grid(column=1, row=3, sticky=W)
+elements['CloseDetail'].grid(column=0, row=3, sticky=E)
 
 root.mainloop()
