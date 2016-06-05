@@ -28,7 +28,7 @@ summaryFrame = ttk.Frame(root, padding="5", style='white.TFrame')
 summaryFrame.grid(column=0, row=1, sticky=(N,S,E,W))
 summaryFrame.config()
 detailFrame = ttk.Frame(root, padding="5", style='white.TFrame')
-detailFrame.grid(column=0, row=3, sticky=(N,S,E,W))
+#detailFrame.grid(column=0, row=3, sticky=(N,S,E,W))
 detailFrame.config()
 
 # Functions to change the information displayed in the UI depending on what trait or personality has been selected.
@@ -52,9 +52,11 @@ def choosePersonality(*args):
 
 # Functions to open and close the detail view
 def openDetails(*args):
-	pass
+	detailFrame.grid(column=0, row=2, sticky=(N,S,E,W))
+	elements['OpenDetail'].grid_remove()
 def closeDetails(*args):
-	pass
+	detailFrame.grid_remove()
+	elements['OpenDetail'].grid()
 
 # Sets defaults for the dropdown lists at the top, and the images.
 traitNames, personalities= {}, {}
@@ -82,7 +84,7 @@ chooseTrait()
 OptionMenu(mainFrame, selectedTraitName, *traitNamesList, command=chooseTrait).grid(column=0, row=0, sticky=(N,S))
 OptionMenu(mainFrame, selectedPersonalityName, *personalitiesList, command=choosePersonality).grid(column=1, row=0, sticky=(N,S))
 # Creates the buttons to open and close the detail view
-elements['OpenDetail'] = ttk.Button(summaryFrame, command=openDetails, text='+')
+elements['OpenDetail'] = ttk.Button(root, command=openDetails, text='+')
 elements['CloseDetail'] = ttk.Button(detailFrame, command=closeDetails, text='-')
 
 # summaryFrame stuff
@@ -101,7 +103,7 @@ ttk.Label(summaryFrame, text="•").grid(column=0, row=6, sticky=E)
 elements['Quality3'].grid(column=1, row=6, columnspan=2, sticky=W)
 # End of the summaryFrame stuff
 elements['LongQuote'].grid(column=0, row=7, columnspan=3, sticky=W)
-elements['OpenDetail'].grid(column=0, row=8, sticky=W)
+elements['OpenDetail'].grid(column=0, row=2, sticky=W)
 
 # detailFrame stuff.
 elements['Superficial'].grid(column=0, row=0, sticky=W)
