@@ -61,7 +61,19 @@ def closeDetails(*args):
 
 # Function to update the drop-down lists.
 def updateLists(*args):
-	print("current string is " + searchTerm.get())
+	traitMenu['menu'].delete(0, 'end')
+	personalityMenu['menu'].delete(0, 'end')
+	traitNames, personalities, search = [], [], searchTerm.get().lower()
+	for trait in traits:
+		if search in trait['Name'].lower():
+			traitNames.append(trait['Name'])
+		if search in trait['Personality'].lower():
+			personalities.append(trait['Personality'])
+	for item in traitNames:
+		traitMenu['menu'].add_command(label=item, command=chooseTrait)
+	for item in personalities:
+		personalityMenu['menu'].add_command(label=item, command=choosePersonality)
+	print("current string is " + search)
 
 # Sets defaults for the dropdown lists at the top, and the images.
 traitNames, personalities= {}, {}
@@ -89,8 +101,10 @@ chooseTrait()
 
 # Creates the dropdown lists and buttons at the top, and grids them
 Entry(mainFrame, textvariable=searchTerm, width=20).grid(column=0, row=0, sticky=(N,S))
-OptionMenu(mainFrame, selectedTraitName, *traitNamesList, command=chooseTrait).grid(column=1, row=0, sticky=(N,S))
-OptionMenu(mainFrame, selectedPersonalityName, *personalitiesList, command=choosePersonality).grid(column=2, row=0, sticky=(N,S))
+traitMenu = OptionMenu(mainFrame, selectedTraitName, *traitNamesList, command=chooseTrait)
+traitMenu.grid(column=1, row=0, sticky=(N,S))
+personalityMenu = OptionMenu(mainFrame, selectedPersonalityName, *personalitiesList, command=choosePersonality)
+personalityMenu.grid(column=2, row=0, sticky=(N,S))
 # Creates the buttons to open and close the detail view
 elements['OpenDetail'] = ttk.Button(root, command=openDetails, text='+')
 elements['CloseDetail'] = ttk.Button(detailFrame, command=closeDetails, text='-')
